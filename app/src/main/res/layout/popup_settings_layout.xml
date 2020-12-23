@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/maps_settings_layout_background"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    android:layout_gravity="center"
+    android:backgroundTintMode="add">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/settings_title_background"
+        android:gravity="center"
+        android:text="@string/settings"
+        android:textAllCaps="false"
+        android:textColor="@color/colorHead"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/mapType"
+            android:textColor="@color/colorText"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+        <Spinner
+            android:id="@+id/mapTypeSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:dropDownWidth="wrap_content"
+            android:elevation="2dp"
+            android:gravity="center_horizontal"
+            android:spinnerMode="dialog"
+            android:background="@color/colorChooseMap"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:text="@string/transparency"
+            android:textColor="@color/colorText"
+            android:textSize="20sp" />
+
+        <SeekBar
+            android:id="@+id/opacity_bar"
+            style="@style/Widget.AppCompat.SeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:indeterminate="false"
+            android:max="100"
+            android:progress="70"/>
+
+    </LinearLayout>
+
+</LinearLayout>

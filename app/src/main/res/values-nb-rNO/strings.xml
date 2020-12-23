@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_home">Hjem</string>
+    <string name="my_position">Min posisjon</string>
+    <string name="permission_denied">Tilgang avvist</string>
+    <string name="not_available">Ikke tilgjengelig</string>
+    <string name="gps_not_enabled">Ingen tilgang til GPS</string>
+    <string name="menu_map">Kart</string>
+    <string name="county_municipality">Fylke / kommune / postnummer</string>
+    <string name="address_search_text">Søk etter adresse</string>
+    <string name="more">Se mer</string>
+    <string name="forecast">Luftvarsel</string>
+    <string name="sources">Kilder</string>
+    <string name="back">Tilbake</string>
+    <string name="show_o3">Vis O3</string>
+    <string name="airquality_forecast">Luftkvalitetsvarsel</string>
+    <string name="transparency">Gjennomsiktighet</string>
+    <string name="mapType">Type kart</string>
+    <string name="settings">Innstillinger</string>
+    <string name="dark_mode">Slå på/av dark mode</string>
+    <string name="change_mapType">Endre karttype</string>
+    <string name="theme_obs">Avslutt og restart appen for å se endringer</string>
+    <string name="language">Endre språk gjennom telefonens innstillinger</string>
+    <string name="menu_info">Informasjon</string>
+
+    <string name="head_desc"><![CDATA[Hvilke funksjoner finner du i denne appen?]]></string>
+    <string name="info_desc"><![CDATA[Denne appen er laget for å kunne gi en rask, brukervennlig og nøyaktig oversikt over hvordan luftkvaliteten er rundt deg. Med allergikere, astmatikere, og andre med luftveisproblemer eller sensitive for luftforurensing i tankene er appen laget for å kunne hjelpe folk til å kjenne miljøet rundt seg, og gjøre gode valg for å leve sunne og friske liv.
+<br><br>
+Dette er <b> Informasjonssiden</b>. Her hjelper vi deg med å forstå hvordan appen fungerer, opplyser deg om hva luftkvalitet og luftforurensing egentlig er, samt forklarer hvorfor vi synes det er viktig å bry seg om luftkvaliteten vår. <br>
+Trykk på pilen til høyre for spørsmålene du lurer på for å få mer informasjon.
+<br><br>
+På <b> hjemmesiden </b> har du rask og enkel tilgang til stedene som er viktigst for deg. Trykk på et av de lagrede stedene for å få en oversikt over luftkvaliteten på valgt sted.
+<br><br>
+I appen finner du et <b> Interaktivt Kart </b> hvor du kan få oppdatert informasjon om luftkvaliteten rundt deg, eller andre steder du ønsker informasjon om. Merk at vi bare viser data innenfor Norges grenser. <br>
+Vi har flere forskjellige <b> karttyper </b> som viser ulike type data. <b> Luftsonekartet </b> viser en kombinasjon av PM10 og NO2 konsentrasjon sett ut fra helserisikoen de utgjør. De resterende karttypene viser den spesifikke konsentrasjonen av de forskjellige partikkeltypene. Her vises kart over <b> årsmiddel, </b> som er en måling av det årlige gjennomsnittet. For PM10 og NO2 viser kartet en måling over hvor mye og hvor ofte verdien har overskredet Folkehelseinstituttets grenseverdier på et gitt område.
+Trykk på spørsmålet <i>  Hva menes med luftforurensing og luftkvalitet? </i> for å se informasjon om de ulike partiklene.
+<br><br>
+Det er tre inndelinger av områder du kan få data over. Dette er Statistisk sentralbyrå (SSB) sine offisielle inndelinger av grunnkretser, delområder og kommuner. <b>Grunnkretser</b> er små, stabile og geografiske enheter som gir et fleksibelt grunnlag for å arbeide med og presentere regionalstatistikk. De består av et geografisk sammenhengende område, og de er mest mulig ensartet når det gjelder natur og næringsgrunnlag, kommunikasjonsforhold og bygningsmessig struktur. <b>Delområde</b> er et mellomnivå mellom kommune og grunnkrets. En slik områdeinndeling er egnet for data som blir for detaljert på grunnkretsnivå. I delområder blir det lagt vekt på at området er naturlig sammensatt kommunikasjonsmessig, og helst er området en naturlig enhet.
+]]></string>
+
+    <string name="explore">Utforsk</string>
+    <string name="temp">Temperatur</string>
+
+    <string name="head_what">Hva menes med luftforurensing og luftkvalitet?</string>
+    <string name="info_what"><![CDATA[Luftforurensning er fremmedstoffer i luften som kan påvirke menneskers helse og trivsel, eller er til skade for klima, dyr, planter, materialer eller andre deler av omgivelsene. Luftforurensende stoffer er gasser, dråper eller faste partikler, og består av ulike kjemiske forbindelser.
+<br><br>
+
+<b> Svevestøv</b>, eller partikulært materiale (PM), er små, luftbårne partikler som varierer i størrelse og sammensetning. De viktigste størrelsesgruppene angitt i mikrometer (µM) er:
+<br>
+PM0,1 (ultrafin fraksjon)<br>
+PM2,5 (finfraksjonen)<br>
+PM10-2,5 (grovfraksjonen)<br>
+PM10 (grovfraksjon og finfraksjon)<br>
+De største partiklene avsettes i øvre luftveier. Mindre partikler, med en diameter på under 2,5 µm, kan følge med lufta vi puster inn og helt ned i lungene.
+<br><br>
+Svevestøv består av en blanding av mange ulike forbindelser. Det kan dannes ved forbrenningsreaksjoner og mekanisk slitasje, virvles opp av vind. Det kan også dannes direkte i atmosfæren ved gasskondensasjon. Forbrenningspartikler dominerer i fin-/ ultrafin fraksjon, mens mekanisk genererte partikler som oftest dominerer i grovfraksjonen.
+<br><br>
+De viktigste kildene til PM10 er asfalt-, bremse- og dekkslitasje, strøsand, vedfyring, industri og langtransporterte bidrag av partikler. <br>
+For PM2,5 er vedfyring, eksosutslipp, industri og langtransporterte partikler de største kildene.
+<br><br>
+<b>Nitrogenmonoksid</b> (NO) og nitrogendioksid (NO2) er reaktive gasser som dannes ved høy temperatur i forbrenningsprosesser. Summen av NO2 og NO kalles for NOx. NO er i seg selv ikke helseskadelig i de konsentrasjonene som forekommer i norske byer, men NO vil reagere med tilgjengelig bakkenært ozon og danne et ytterligere bidrag til NO2 som er langt mer helseskadelig. <br>
+I flere norske byer er nivået av NO2 høyere enn tillatt grenseverdi. Overskridelser er mest vanlig i de største byene, mens NO2 konsentrasjoner sjeldent er et problem på mindre tettsteder. <br>
+Effekter av langvarig eksponering for NO2 er undersøkt i befolkningsstudier. Flere studier viser sammenheng med astma, bronkitt, lungefunksjon og dødelighet. <br>
+Den viktigste kilden til NO2- og NO-utslipp er eksos fra veitrafikk. Noen steder kan også utslipp fra industri eller skipstrafikk være en relevant kilde. Langtransportert forurensning kan også bidra. I de store byene er det dieselkjøretøy som slipper ut mest NO2. <br>
+
+<br> <br>
+<b>Ozon</b> er en reaktiv gass som finnes både nær bakken og i stratosfæren. Det er bakkenært ozon som omtales her og som kan føre til helseskadelige effekter. Ozon i stratosfæren beskytter jorden mot skadelig UV-stråling. Ozon dannes av reaksjoner mellom NOx, flyktige organiske forbindelser (VOC) og sollys. Konsentrasjoner av ozon i Norge kommer hovedsakelig som følge av langtransportert bidrag fra kontinentet. Bakkenært ozon kan være et miljøproblem ved at det skader vegetasjon, materialer eller folks helse.
+
+<br><br>
+<b>Svoveldioksid</b> (SO2) er en fargeløs gass som er lettløselig i vann. Gassen dannes ved forbrenning av stoffer som inneholder svovel – i hovedsak olje og kull, samt en rekke industriprosesser. Kraftverk, oljeraffineri og andre store industrianlegg er hovedkilden til SO2-utslipp i dag. Luftforurensing av SO2 er bare et problem i noen få norske byer hvor industri forårsaker lokale utslipp.]]></string>
+
+    <string name="head_why">Hvorfor måler vi luftkvalitet?</string>
+    <string name="info_why"><![CDATA[Mer enn 90 prosent av verdens befolkning bor i områder med skadelige nivåer av luftforurensing. Urbaniseringen som samler mennesker i store byer med mye trafikk og industri er avgjørende for denne utviklingen. Man regner med at luftforurensning forårsaker omkring 6,5 millioner dødsfall på verdensbasis; utendørs luftforurensning medvirker til 4,5 millioner, mens innendørs luftforurensning bidrar til i overkant av 2 millioner av disse.
+<br><br>
+Hele 60 prosent av denne sykdomsbyrden skyldes hjerte- og karsykdom (hjerteinfarkt og hjerneslag). De resterende 40 prosentene skyldes i hovedsak lungekreft, luftveisinfeksjoner, kronisk obstruktiv lungesykdom (KOLS) og astma.
+<br><br>
+Det er godt dokumentert at luftforurensning bidrar til død og tapte friske leveår, selv i Norge.]]></string>
+
+    <string name="head_who">Hvem er spesielt utsatt for å bli påvirket av luftkvaliteten?</string>
+    <string name="info_who"><![CDATA[Helserisikoen avhenger av hvor forurenset lufta er, og hvor lenge vi blir utsatt for den.
+Personer med luftveissykdommer og hjerte- og karlidelser er spesielt utsatt for luftforurensning. Det samme er små barn som ennå ikke har ferdig utviklede luftveier. Nyere forskningsresultater tyder på at eldre kan få nevrologiske sykdommer som for eksempel demens, i tillegg til hjerte- og karlidelser og luftveissykdommer.
+<br><br>
+Luftforurensning kan forverre sykdommer i luftveiene, som for eksempel infeksjoner, astma og KOLS og lidelser i hjerte- og karsystemet som hjerteinfarkt og slag. Både korte (timer eller døgn) og langvarige perioder (måneder eller år) med luftforurensning kan gi dårligere helse for alle.
+]]></string>
+
+    <string name="head_hvor">Hvor får vi dataene våre, og hva er kildene våre?</string>
+    <string name="info_hvor"><![CDATA[Denne appen er laget med hjelp fra Meteorologisk Institutt sitt Air Quality Forecast API.
+Den benytter seg også av NILUs(Norsk Institutt for Luftforskning) luftmålere som er uavhengige av værstasjoner. Dataene blir sammenlignet med kart og kommunedata fra SSB, og lagt over et kart fra Google Maps.
+
+<br><br>
+Informasjonen du leser på denne siden er inspirert av:
+<br><br>
+FHI, Folkehelseinstituttet<br>
+Miljødirektoratet<br>
+Store Norske Leksikon - Luftforurensning <br>
+SSB, Statistisk sentralbyrå
+]]></string>
+    <string name="head_where">Hvor får vi dataene våre, og hva er kildene våre?</string>
+    <string name="info_where"><![CDATA[Denne appen er laget med hjelp fra Meteorologisk Institutt sitt Air Quality Forecast API.
+Den benytter seg også av NILUs(Norsk Institutt for Luftforskning) luftmålere som er uavhengige av værstasjoner. Dataene blir sammenlignet med kart og kommunedata fra SSB, og lagt over et kart fra Google Maps.
+
+<br><br>
+Informasjonen du leser på denne siden er inspirert av:
+<br><br>
+FHI, Folkehelseinstituttet<br>
+Miljødirektoratet<br>
+Store Norske Leksikon - Luftforurensning <br>
+SSB, Statistisk sentralbyrå
+]]></string>
+    <string name="fraction_heating">Fyring</string>
+    <string name="fraction_industry">Industri</string>
+    <string name="fraction_traffic_exhaust">Eksos</string>
+    <string name="fraction_traffic_nonexhaust">Veistøv</string>
+    <string name="fraction_nonlocal">Langtransport</string>
+    <string name="fraction_nonlocal_seasalt">Sjøsalt</string>
+    <string name="add_to_my_places">Legg til i Mine Steder</string>
+    <string name="my_places">Mine Steder</string>
+    <string name="default_karttype">Standard Karttype</string>
+    <string name="reset_my_places">Tilbakestill Mine Steder</string>
+    <string name="reset">Tilbakestill</string>
+    <string name="name">Navn</string>
+    <string name="areaclass">Områdsklasse</string>
+    <string name="gps_error">Kunne ikke koble til GPS</string>
+    <string name="show_nearest_time">Vis nærmeste tid</string>
+    <string name="annual_mean">Årsmiddel</string>
+    <string name="hold_to_edit">(Langt klikk for å endre)</string>
+    <string name="model">Luftkvalitet</string>
+    <string name="stations">Stasjoner</string>
+    <string name="measures">Måler:</string>
+    <string name="dm">Aktiver dark mode</string>
+    <string name="color_values">Fargeverdier</string>
+    <string name="last_updated">Oppdatert</string>
+    <string name="measured_values">Verdier:</string>
+    <string name="border_value">Grenseverdi</string>
+    <string name="shortterm">Korttidsmiddel</string>
+    <string name="annualmean_acceptable">Akseptabelt</string>
+    <string name="annualmean_exceed">Overgått</string>
+    <string name="one_year">1 år</string>
+    <string name="one_day">1 dag</string>
+    <string name="pm10_max_days_yearly">30 dager</string>
+    <string name="max_exceed_year">Maks årlig overgått</string>
+    <string name="concentration">Konsentrasjon</string>
+    <string name="no2_max_hours_year">18 timer</string>
+    <string name="one_hour">1 time</string>
+    <string name="could_not_determine_location">Kunne ikke hente lokasjon</string>
+    <string name="max_annualmean">Grense</string>
+    <string name="period">Periode</string>
+    <string name="max_over">Maks tillatt</string>
+    <string name="no2_low_pollution">NO2 Moderat risiko</string>
+    <string name="pm25_low_pollution">PM2.5  Moderat risiko</string>
+    <string name="pm10_low_pollution">PM10  Moderat risiko</string>
+    <string name="name_of_place">Navn på sted</string>
+    <string name="add_place">Legg til sted</string>
+    <string name="add_custom_place">Legg til egendefinert sted</string>
+    <string name="invalid_name">Ugyldig navn</string>
+    <string name="added">lagt til</string>
+    <string name="cancel">Avbryt</string>
+    <string name="position">Posisjon</string>
+    <string name="nhhiny">19. høyeste timeverdi i året</string>
+    <string name="tohdiny">31. høyeste dagverdi i året</string>
+    <string name="places_reset_msg">Tilbakestill Mine Steder? Dette vil fjerne alle lagrede steder.</string>
+    <string name="update">Oppdater</string>
+    <string name="remove_place">Slett</string>
+    <string name="edit_or_delete">Endre eller slett</string>
+    <string name="slide_time">Slide for å endre referansetid</string>
+    <string name="within_limit">Verdier er på akseptable nivåer</string>
+    <string name="exceed_limit">Verdier overstiger akseptable nivåer</string>
+    <string name="error_occured">En feil har oppstått</string>
+    <string name="h24">24t</string>
+    <string name="h1">1t</string>
+    <string name="polution">Forurensning</string>
+    <string name="low_polution">Lav</string>
+    <string name="medium_polltion">Middels</string>
+    <string name="high">Høy</string>
+    <string name="very_high">Veldig Høy</string>
+    <string name="h_expl">1t: Maksimal timesverdi 24t: Maksimal daglig verdi</string>
+    <string name="luftsonekart">Luftsonekart</string>
+    <string name="levels">Nivåer</string>
+    <string name="error_get_data">En feil oppsto. Sjekk internettkobling og prøv på nytt</string>
+    <string name="no_internet_map">Ingen internettilkobling. Dette vil begrense kartfunksjonalitet</string>
+    <string name="no_internet">Ingen internettilkobling. Dette vil begrense funksjonalitet</string>
+    <string name="no_data">"Ingen data tilgjengelig "</string>
+    <string name="now">Nåværende tid</string>
+    <string name="no_places">Ingen steder å laste</string>
+
+    <string name="basic_statistical_unit">Grunnkrets</string>
+    <string name="sub_area">Delområde</string>
+    <string name="municipality">Kommune</string>
+
+    <string name="air_zone_map">Luftsonekart</string>
+    <string name="no2_concentration_annual_mean">NO2-Konsentrasjon</string>
+    <string name="pm10_concentration_annual_mean">PM10-Konsentrasjon</string>
+    <string name="pm25_concentration_annual_mean">PM25-Konsentrasjon</string>
+
+
+
+</resources>

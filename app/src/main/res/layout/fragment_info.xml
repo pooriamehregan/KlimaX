@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:expandableTextView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".ui.info.InfoFragment"
+    android:background="@color/colorBackground" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:animateLayoutChanges="true">
+
+        <LinearLayout
+            android:id="@+id/infoLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginBottom="20dp"
+                android:text="@string/faq"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:textColor="@color/colorHead"
+                android:gravity="center"
+                android:fontFamily="@font/langar"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/colorLine" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:animateLayoutChanges="true">
+
+                <TextView
+                    android:id="@+id/header1"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:gravity="center"
+                    android:textColor="@color/colorText"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    expandableTextView:layout_constraintBottom_toBottomOf="@id/expand_btn_1"
+                    expandableTextView:layout_constraintEnd_toStartOf="@+id/expand_btn_1"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="parent" />
+
+                <ImageButton
+                    android:id="@+id/expand_btn_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:padding="5dp"
+                    android:src="@drawable/ic_expand_large_holo_light"
+                    expandableTextView:layout_constraintBottom_toTopOf="@+id/expand_txt_1"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/expand_txt_1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:textColor="@color/colorText"
+                    android:textSize="16sp"
+                    android:visibility="gone"
+                    expandableTextView:layout_constraintBottom_toBottomOf="parent"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toBottomOf="@+id/header1" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/colorLine" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:animateLayoutChanges="true">
+
+                <TextView
+                    android:id="@+id/header2"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:gravity="center"
+                    android:textColor="@color/colorText"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    expandableTextView:layout_constraintBottom_toBottomOf="@id/expand_btn_2"
+                    expandableTextView:layout_constraintEnd_toStartOf="@+id/expand_btn_2"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="@id/expand_btn_2" />
+
+                <ImageButton
+                    android:id="@+id/expand_btn_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:padding="5dp"
+                    android:src="@drawable/ic_expand_large_holo_light"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/expand_txt_2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="1dp"
+                    android:textColor="@color/colorText"
+                    android:textSize="16sp"
+                    android:visibility="gone"
+                    expandableTextView:layout_constraintBottom_toBottomOf="parent"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toBottomOf="@+id/header2" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/colorLine" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:animateLayoutChanges="true">
+
+                <TextView
+                    android:id="@+id/header3"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:gravity="center"
+                    android:textColor="@color/colorText"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    expandableTextView:layout_constraintBottom_toBottomOf="@id/expand_btn_3"
+                    expandableTextView:layout_constraintEnd_toStartOf="@+id/expand_btn_3"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="@id/expand_btn_3" />
+
+                <ImageButton
+                    android:id="@+id/expand_btn_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:padding="5dp"
+                    android:src="@drawable/ic_expand_large_holo_light"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/expand_txt_3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="1dp"
+                    android:textColor="@color/colorText"
+                    android:textSize="16sp"
+                    android:visibility="gone"
+                    expandableTextView:layout_constraintBottom_toBottomOf="parent"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toBottomOf="@+id/header3" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/colorLine" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:animateLayoutChanges="true">
+
+                <TextView
+                    android:id="@+id/header4"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:gravity="center"
+                    android:textColor="@color/colorText"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    expandableTextView:layout_constraintBottom_toBottomOf="@id/expand_btn_4"
+                    expandableTextView:layout_constraintEnd_toStartOf="@+id/expand_btn_4"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="@id/expand_btn_4" />
+
+                <ImageButton
+                    android:id="@+id/expand_btn_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:padding="5dp"
+                    android:src="@drawable/ic_expand_large_holo_light"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/expand_txt_4"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="1dp"
+                    android:textColor="@color/colorText"
+                    android:text="@string/text"
+                    android:textSize="16sp"
+                    android:visibility="gone"
+                    expandableTextView:layout_constraintBottom_toBottomOf="parent"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toBottomOf="@+id/header4" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/colorLine" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:animateLayoutChanges="true">
+
+                <TextView
+                    android:id="@+id/header5"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:gravity="center"
+                    android:textColor="@color/colorText"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    expandableTextView:layout_constraintBottom_toBottomOf="@id/expand_btn_5"
+                    expandableTextView:layout_constraintEnd_toStartOf="@+id/expand_btn_5"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="@id/expand_btn_5" />
+
+                <ImageButton
+                    android:id="@+id/expand_btn_5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:padding="5dp"
+                    android:src="@drawable/ic_expand_large_holo_light"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/expand_txt_5"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="1dp"
+                    android:textColor="@color/colorText"
+                    android:text="@string/text"
+                    android:textSize="16sp"
+                    android:visibility="gone"
+                    expandableTextView:layout_constraintBottom_toBottomOf="parent"
+                    expandableTextView:layout_constraintEnd_toEndOf="parent"
+                    expandableTextView:layout_constraintStart_toStartOf="parent"
+                    expandableTextView:layout_constraintTop_toBottomOf="@+id/header5" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@color/colorLine" />
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

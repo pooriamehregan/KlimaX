@@ -1,0 +1,8553 @@
+{
+  "areadefinition": {
+    "name": "Kommuneinndeling januar 2020",
+    "url": "https://www.ssb.no/klass/klassifikasjoner/131/versjon/1160"
+  },
+  "last_updated_utc": "2020-02-28 16:13:46",
+  "available": [
+    {
+      "areacode": "0301",
+      "areaclass": "kommune",
+      "areaname": "Oslo",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "0301",
+      "areaclass": "kommune",
+      "areaname": "Oslo",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "0301",
+      "areaclass": "kommune",
+      "areaname": "Oslo",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "0301",
+      "areaclass": "kommune",
+      "areaname": "Oslo",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1101",
+      "areaclass": "kommune",
+      "areaname": "Eigersund",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1101",
+      "areaclass": "kommune",
+      "areaname": "Eigersund",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1101",
+      "areaclass": "kommune",
+      "areaname": "Eigersund",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1101",
+      "areaclass": "kommune",
+      "areaname": "Eigersund",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1103",
+      "areaclass": "kommune",
+      "areaname": "Stavanger",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1103",
+      "areaclass": "kommune",
+      "areaname": "Stavanger",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1103",
+      "areaclass": "kommune",
+      "areaname": "Stavanger",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1103",
+      "areaclass": "kommune",
+      "areaname": "Stavanger",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1106",
+      "areaclass": "kommune",
+      "areaname": "Haugesund",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1106",
+      "areaclass": "kommune",
+      "areaname": "Haugesund",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1106",
+      "areaclass": "kommune",
+      "areaname": "Haugesund",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1106",
+      "areaclass": "kommune",
+      "areaname": "Haugesund",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1108",
+      "areaclass": "kommune",
+      "areaname": "Sandnes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1108",
+      "areaclass": "kommune",
+      "areaname": "Sandnes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1108",
+      "areaclass": "kommune",
+      "areaname": "Sandnes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1108",
+      "areaclass": "kommune",
+      "areaname": "Sandnes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1111",
+      "areaclass": "kommune",
+      "areaname": "Sokndal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1111",
+      "areaclass": "kommune",
+      "areaname": "Sokndal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1111",
+      "areaclass": "kommune",
+      "areaname": "Sokndal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1111",
+      "areaclass": "kommune",
+      "areaname": "Sokndal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1112",
+      "areaclass": "kommune",
+      "areaname": "Lund",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1112",
+      "areaclass": "kommune",
+      "areaname": "Lund",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1112",
+      "areaclass": "kommune",
+      "areaname": "Lund",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1112",
+      "areaclass": "kommune",
+      "areaname": "Lund",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1114",
+      "areaclass": "kommune",
+      "areaname": "Bjerkreim",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1114",
+      "areaclass": "kommune",
+      "areaname": "Bjerkreim",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1114",
+      "areaclass": "kommune",
+      "areaname": "Bjerkreim",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1114",
+      "areaclass": "kommune",
+      "areaname": "Bjerkreim",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1119",
+      "areaclass": "kommune",
+      "areaname": "H\u00e5",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1119",
+      "areaclass": "kommune",
+      "areaname": "H\u00e5",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1119",
+      "areaclass": "kommune",
+      "areaname": "H\u00e5",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1119",
+      "areaclass": "kommune",
+      "areaname": "H\u00e5",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1120",
+      "areaclass": "kommune",
+      "areaname": "Klepp",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1120",
+      "areaclass": "kommune",
+      "areaname": "Klepp",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1120",
+      "areaclass": "kommune",
+      "areaname": "Klepp",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1120",
+      "areaclass": "kommune",
+      "areaname": "Klepp",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1121",
+      "areaclass": "kommune",
+      "areaname": "Time",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1121",
+      "areaclass": "kommune",
+      "areaname": "Time",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1121",
+      "areaclass": "kommune",
+      "areaname": "Time",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1121",
+      "areaclass": "kommune",
+      "areaname": "Time",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1122",
+      "areaclass": "kommune",
+      "areaname": "Gjesdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1122",
+      "areaclass": "kommune",
+      "areaname": "Gjesdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1122",
+      "areaclass": "kommune",
+      "areaname": "Gjesdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1122",
+      "areaclass": "kommune",
+      "areaname": "Gjesdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1124",
+      "areaclass": "kommune",
+      "areaname": "Sola",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1124",
+      "areaclass": "kommune",
+      "areaname": "Sola",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1124",
+      "areaclass": "kommune",
+      "areaname": "Sola",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1124",
+      "areaclass": "kommune",
+      "areaname": "Sola",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1127",
+      "areaclass": "kommune",
+      "areaname": "Randaberg",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1127",
+      "areaclass": "kommune",
+      "areaname": "Randaberg",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1127",
+      "areaclass": "kommune",
+      "areaname": "Randaberg",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1127",
+      "areaclass": "kommune",
+      "areaname": "Randaberg",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1130",
+      "areaclass": "kommune",
+      "areaname": "Strand",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1130",
+      "areaclass": "kommune",
+      "areaname": "Strand",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1130",
+      "areaclass": "kommune",
+      "areaname": "Strand",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1130",
+      "areaclass": "kommune",
+      "areaname": "Strand",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1133",
+      "areaclass": "kommune",
+      "areaname": "Hjelmeland",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1133",
+      "areaclass": "kommune",
+      "areaname": "Hjelmeland",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1133",
+      "areaclass": "kommune",
+      "areaname": "Hjelmeland",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1133",
+      "areaclass": "kommune",
+      "areaname": "Hjelmeland",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1134",
+      "areaclass": "kommune",
+      "areaname": "Suldal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1134",
+      "areaclass": "kommune",
+      "areaname": "Suldal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1134",
+      "areaclass": "kommune",
+      "areaname": "Suldal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1134",
+      "areaclass": "kommune",
+      "areaname": "Suldal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1135",
+      "areaclass": "kommune",
+      "areaname": "Sauda",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1135",
+      "areaclass": "kommune",
+      "areaname": "Sauda",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1135",
+      "areaclass": "kommune",
+      "areaname": "Sauda",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1135",
+      "areaclass": "kommune",
+      "areaname": "Sauda",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1144",
+      "areaclass": "kommune",
+      "areaname": "Kvits\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1144",
+      "areaclass": "kommune",
+      "areaname": "Kvits\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1144",
+      "areaclass": "kommune",
+      "areaname": "Kvits\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1144",
+      "areaclass": "kommune",
+      "areaname": "Kvits\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1145",
+      "areaclass": "kommune",
+      "areaname": "Bokn",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1145",
+      "areaclass": "kommune",
+      "areaname": "Bokn",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1145",
+      "areaclass": "kommune",
+      "areaname": "Bokn",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1145",
+      "areaclass": "kommune",
+      "areaname": "Bokn",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1146",
+      "areaclass": "kommune",
+      "areaname": "Tysv\u00e6r",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1146",
+      "areaclass": "kommune",
+      "areaname": "Tysv\u00e6r",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1146",
+      "areaclass": "kommune",
+      "areaname": "Tysv\u00e6r",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1146",
+      "areaclass": "kommune",
+      "areaname": "Tysv\u00e6r",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1149",
+      "areaclass": "kommune",
+      "areaname": "Karm\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1149",
+      "areaclass": "kommune",
+      "areaname": "Karm\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1149",
+      "areaclass": "kommune",
+      "areaname": "Karm\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1149",
+      "areaclass": "kommune",
+      "areaname": "Karm\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1151",
+      "areaclass": "kommune",
+      "areaname": "Utsira",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1151",
+      "areaclass": "kommune",
+      "areaname": "Utsira",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1151",
+      "areaclass": "kommune",
+      "areaname": "Utsira",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1151",
+      "areaclass": "kommune",
+      "areaname": "Utsira",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1160",
+      "areaclass": "kommune",
+      "areaname": "Vindafjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1160",
+      "areaclass": "kommune",
+      "areaname": "Vindafjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1160",
+      "areaclass": "kommune",
+      "areaname": "Vindafjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1160",
+      "areaclass": "kommune",
+      "areaname": "Vindafjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1505",
+      "areaclass": "kommune",
+      "areaname": "Kristiansund",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1505",
+      "areaclass": "kommune",
+      "areaname": "Kristiansund",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1505",
+      "areaclass": "kommune",
+      "areaname": "Kristiansund",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1505",
+      "areaclass": "kommune",
+      "areaname": "Kristiansund",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1506",
+      "areaclass": "kommune",
+      "areaname": "Molde",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1506",
+      "areaclass": "kommune",
+      "areaname": "Molde",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1506",
+      "areaclass": "kommune",
+      "areaname": "Molde",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1506",
+      "areaclass": "kommune",
+      "areaname": "Molde",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1507",
+      "areaclass": "kommune",
+      "areaname": "\u00c5lesund",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1507",
+      "areaclass": "kommune",
+      "areaname": "\u00c5lesund",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1507",
+      "areaclass": "kommune",
+      "areaname": "\u00c5lesund",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1507",
+      "areaclass": "kommune",
+      "areaname": "\u00c5lesund",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1511",
+      "areaclass": "kommune",
+      "areaname": "Vanylven",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1511",
+      "areaclass": "kommune",
+      "areaname": "Vanylven",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1511",
+      "areaclass": "kommune",
+      "areaname": "Vanylven",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1511",
+      "areaclass": "kommune",
+      "areaname": "Vanylven",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1514",
+      "areaclass": "kommune",
+      "areaname": "Sande",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1514",
+      "areaclass": "kommune",
+      "areaname": "Sande",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1514",
+      "areaclass": "kommune",
+      "areaname": "Sande",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1514",
+      "areaclass": "kommune",
+      "areaname": "Sande",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1515",
+      "areaclass": "kommune",
+      "areaname": "Her\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1515",
+      "areaclass": "kommune",
+      "areaname": "Her\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1515",
+      "areaclass": "kommune",
+      "areaname": "Her\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1515",
+      "areaclass": "kommune",
+      "areaname": "Her\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1516",
+      "areaclass": "kommune",
+      "areaname": "Ulstein",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1516",
+      "areaclass": "kommune",
+      "areaname": "Ulstein",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1516",
+      "areaclass": "kommune",
+      "areaname": "Ulstein",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1516",
+      "areaclass": "kommune",
+      "areaname": "Ulstein",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1517",
+      "areaclass": "kommune",
+      "areaname": "Hareid",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1517",
+      "areaclass": "kommune",
+      "areaname": "Hareid",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1517",
+      "areaclass": "kommune",
+      "areaname": "Hareid",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1517",
+      "areaclass": "kommune",
+      "areaname": "Hareid",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1520",
+      "areaclass": "kommune",
+      "areaname": "\u00d8rsta",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1520",
+      "areaclass": "kommune",
+      "areaname": "\u00d8rsta",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1520",
+      "areaclass": "kommune",
+      "areaname": "\u00d8rsta",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1520",
+      "areaclass": "kommune",
+      "areaname": "\u00d8rsta",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1525",
+      "areaclass": "kommune",
+      "areaname": "Stranda",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1525",
+      "areaclass": "kommune",
+      "areaname": "Stranda",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1525",
+      "areaclass": "kommune",
+      "areaname": "Stranda",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1525",
+      "areaclass": "kommune",
+      "areaname": "Stranda",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1528",
+      "areaclass": "kommune",
+      "areaname": "Sykkylven",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1528",
+      "areaclass": "kommune",
+      "areaname": "Sykkylven",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1528",
+      "areaclass": "kommune",
+      "areaname": "Sykkylven",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1528",
+      "areaclass": "kommune",
+      "areaname": "Sykkylven",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1531",
+      "areaclass": "kommune",
+      "areaname": "Sula",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1531",
+      "areaclass": "kommune",
+      "areaname": "Sula",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1531",
+      "areaclass": "kommune",
+      "areaname": "Sula",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1531",
+      "areaclass": "kommune",
+      "areaname": "Sula",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1532",
+      "areaclass": "kommune",
+      "areaname": "Giske",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1532",
+      "areaclass": "kommune",
+      "areaname": "Giske",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1532",
+      "areaclass": "kommune",
+      "areaname": "Giske",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1532",
+      "areaclass": "kommune",
+      "areaname": "Giske",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1535",
+      "areaclass": "kommune",
+      "areaname": "Vestnes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1535",
+      "areaclass": "kommune",
+      "areaname": "Vestnes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1535",
+      "areaclass": "kommune",
+      "areaname": "Vestnes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1535",
+      "areaclass": "kommune",
+      "areaname": "Vestnes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1539",
+      "areaclass": "kommune",
+      "areaname": "Rauma",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1539",
+      "areaclass": "kommune",
+      "areaname": "Rauma",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1539",
+      "areaclass": "kommune",
+      "areaname": "Rauma",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1539",
+      "areaclass": "kommune",
+      "areaname": "Rauma",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1547",
+      "areaclass": "kommune",
+      "areaname": "Aukra",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1547",
+      "areaclass": "kommune",
+      "areaname": "Aukra",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1547",
+      "areaclass": "kommune",
+      "areaname": "Aukra",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1547",
+      "areaclass": "kommune",
+      "areaname": "Aukra",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1554",
+      "areaclass": "kommune",
+      "areaname": "Aver\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1554",
+      "areaclass": "kommune",
+      "areaname": "Aver\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1554",
+      "areaclass": "kommune",
+      "areaname": "Aver\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1554",
+      "areaclass": "kommune",
+      "areaname": "Aver\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1557",
+      "areaclass": "kommune",
+      "areaname": "Gjemnes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1557",
+      "areaclass": "kommune",
+      "areaname": "Gjemnes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1557",
+      "areaclass": "kommune",
+      "areaname": "Gjemnes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1557",
+      "areaclass": "kommune",
+      "areaname": "Gjemnes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1560",
+      "areaclass": "kommune",
+      "areaname": "Tingvoll",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1560",
+      "areaclass": "kommune",
+      "areaname": "Tingvoll",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1560",
+      "areaclass": "kommune",
+      "areaname": "Tingvoll",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1560",
+      "areaclass": "kommune",
+      "areaname": "Tingvoll",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1563",
+      "areaclass": "kommune",
+      "areaname": "Sunndal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1563",
+      "areaclass": "kommune",
+      "areaname": "Sunndal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1563",
+      "areaclass": "kommune",
+      "areaname": "Sunndal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1563",
+      "areaclass": "kommune",
+      "areaname": "Sunndal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1566",
+      "areaclass": "kommune",
+      "areaname": "Surnadal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1566",
+      "areaclass": "kommune",
+      "areaname": "Surnadal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1566",
+      "areaclass": "kommune",
+      "areaname": "Surnadal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1566",
+      "areaclass": "kommune",
+      "areaname": "Surnadal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1573",
+      "areaclass": "kommune",
+      "areaname": "Sm\u00f8la",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1573",
+      "areaclass": "kommune",
+      "areaname": "Sm\u00f8la",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1573",
+      "areaclass": "kommune",
+      "areaname": "Sm\u00f8la",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1573",
+      "areaclass": "kommune",
+      "areaname": "Sm\u00f8la",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1576",
+      "areaclass": "kommune",
+      "areaname": "Aure",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1576",
+      "areaclass": "kommune",
+      "areaname": "Aure",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1576",
+      "areaclass": "kommune",
+      "areaname": "Aure",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1576",
+      "areaclass": "kommune",
+      "areaname": "Aure",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1577",
+      "areaclass": "kommune",
+      "areaname": "Volda",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1577",
+      "areaclass": "kommune",
+      "areaname": "Volda",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1577",
+      "areaclass": "kommune",
+      "areaname": "Volda",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1577",
+      "areaclass": "kommune",
+      "areaname": "Volda",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1578",
+      "areaclass": "kommune",
+      "areaname": "Fjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1578",
+      "areaclass": "kommune",
+      "areaname": "Fjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1578",
+      "areaclass": "kommune",
+      "areaname": "Fjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1578",
+      "areaclass": "kommune",
+      "areaname": "Fjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1579",
+      "areaclass": "kommune",
+      "areaname": "Hustadvika",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1579",
+      "areaclass": "kommune",
+      "areaname": "Hustadvika",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1579",
+      "areaclass": "kommune",
+      "areaname": "Hustadvika",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1579",
+      "areaclass": "kommune",
+      "areaname": "Hustadvika",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1804",
+      "areaclass": "kommune",
+      "areaname": "Bod\u00f8",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1804",
+      "areaclass": "kommune",
+      "areaname": "Bod\u00f8",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1804",
+      "areaclass": "kommune",
+      "areaname": "Bod\u00f8",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1804",
+      "areaclass": "kommune",
+      "areaname": "Bod\u00f8",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1806",
+      "areaclass": "kommune",
+      "areaname": "Narvik",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1806",
+      "areaclass": "kommune",
+      "areaname": "Narvik",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1806",
+      "areaclass": "kommune",
+      "areaname": "Narvik",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1806",
+      "areaclass": "kommune",
+      "areaname": "Narvik",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1811",
+      "areaclass": "kommune",
+      "areaname": "Bindal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1811",
+      "areaclass": "kommune",
+      "areaname": "Bindal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1811",
+      "areaclass": "kommune",
+      "areaname": "Bindal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1811",
+      "areaclass": "kommune",
+      "areaname": "Bindal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1812",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8mna",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1812",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8mna",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1812",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8mna",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1812",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8mna",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1813",
+      "areaclass": "kommune",
+      "areaname": "Br\u00f8nn\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1813",
+      "areaclass": "kommune",
+      "areaname": "Br\u00f8nn\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1813",
+      "areaclass": "kommune",
+      "areaname": "Br\u00f8nn\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1813",
+      "areaclass": "kommune",
+      "areaname": "Br\u00f8nn\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1815",
+      "areaclass": "kommune",
+      "areaname": "Vega",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1815",
+      "areaclass": "kommune",
+      "areaname": "Vega",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1815",
+      "areaclass": "kommune",
+      "areaname": "Vega",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1815",
+      "areaclass": "kommune",
+      "areaname": "Vega",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1816",
+      "areaclass": "kommune",
+      "areaname": "Vevelstad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1816",
+      "areaclass": "kommune",
+      "areaname": "Vevelstad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1816",
+      "areaclass": "kommune",
+      "areaname": "Vevelstad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1816",
+      "areaclass": "kommune",
+      "areaname": "Vevelstad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1818",
+      "areaclass": "kommune",
+      "areaname": "Her\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1818",
+      "areaclass": "kommune",
+      "areaname": "Her\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1818",
+      "areaclass": "kommune",
+      "areaname": "Her\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1818",
+      "areaclass": "kommune",
+      "areaname": "Her\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1820",
+      "areaclass": "kommune",
+      "areaname": "Alstahaug",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1820",
+      "areaclass": "kommune",
+      "areaname": "Alstahaug",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1820",
+      "areaclass": "kommune",
+      "areaname": "Alstahaug",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1820",
+      "areaclass": "kommune",
+      "areaname": "Alstahaug",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1822",
+      "areaclass": "kommune",
+      "areaname": "Leirfjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1822",
+      "areaclass": "kommune",
+      "areaname": "Leirfjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1822",
+      "areaclass": "kommune",
+      "areaname": "Leirfjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1822",
+      "areaclass": "kommune",
+      "areaname": "Leirfjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1824",
+      "areaclass": "kommune",
+      "areaname": "Vefsn",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1824",
+      "areaclass": "kommune",
+      "areaname": "Vefsn",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1824",
+      "areaclass": "kommune",
+      "areaname": "Vefsn",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1824",
+      "areaclass": "kommune",
+      "areaname": "Vefsn",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1825",
+      "areaclass": "kommune",
+      "areaname": "Grane",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1825",
+      "areaclass": "kommune",
+      "areaname": "Grane",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1825",
+      "areaclass": "kommune",
+      "areaname": "Grane",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1825",
+      "areaclass": "kommune",
+      "areaname": "Grane",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1826",
+      "areaclass": "kommune",
+      "areaname": "Hattfjelldal,Aarborte",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1826",
+      "areaclass": "kommune",
+      "areaname": "Hattfjelldal,Aarborte",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1826",
+      "areaclass": "kommune",
+      "areaname": "Hattfjelldal,Aarborte",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1826",
+      "areaclass": "kommune",
+      "areaname": "Hattfjelldal,Aarborte",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1827",
+      "areaclass": "kommune",
+      "areaname": "D\u00f8nna",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1827",
+      "areaclass": "kommune",
+      "areaname": "D\u00f8nna",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1827",
+      "areaclass": "kommune",
+      "areaname": "D\u00f8nna",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1827",
+      "areaclass": "kommune",
+      "areaname": "D\u00f8nna",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1828",
+      "areaclass": "kommune",
+      "areaname": "Nesna",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1828",
+      "areaclass": "kommune",
+      "areaname": "Nesna",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1828",
+      "areaclass": "kommune",
+      "areaname": "Nesna",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1828",
+      "areaclass": "kommune",
+      "areaname": "Nesna",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1832",
+      "areaclass": "kommune",
+      "areaname": "Hemnes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1832",
+      "areaclass": "kommune",
+      "areaname": "Hemnes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1832",
+      "areaclass": "kommune",
+      "areaname": "Hemnes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1832",
+      "areaclass": "kommune",
+      "areaname": "Hemnes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1833",
+      "areaclass": "kommune",
+      "areaname": "Rana",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1833",
+      "areaclass": "kommune",
+      "areaname": "Rana",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1833",
+      "areaclass": "kommune",
+      "areaname": "Rana",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1833",
+      "areaclass": "kommune",
+      "areaname": "Rana",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1834",
+      "areaclass": "kommune",
+      "areaname": "Lur\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1834",
+      "areaclass": "kommune",
+      "areaname": "Lur\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1834",
+      "areaclass": "kommune",
+      "areaname": "Lur\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1834",
+      "areaclass": "kommune",
+      "areaname": "Lur\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1835",
+      "areaclass": "kommune",
+      "areaname": "Tr\u00e6na",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1835",
+      "areaclass": "kommune",
+      "areaname": "Tr\u00e6na",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1835",
+      "areaclass": "kommune",
+      "areaname": "Tr\u00e6na",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1835",
+      "areaclass": "kommune",
+      "areaname": "Tr\u00e6na",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1836",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8d\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1836",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8d\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1836",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8d\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1836",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8d\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1837",
+      "areaclass": "kommune",
+      "areaname": "Mel\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1837",
+      "areaclass": "kommune",
+      "areaname": "Mel\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1837",
+      "areaclass": "kommune",
+      "areaname": "Mel\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1837",
+      "areaclass": "kommune",
+      "areaname": "Mel\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1838",
+      "areaclass": "kommune",
+      "areaname": "Gildesk\u00e5l",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1838",
+      "areaclass": "kommune",
+      "areaname": "Gildesk\u00e5l",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1838",
+      "areaclass": "kommune",
+      "areaname": "Gildesk\u00e5l",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1838",
+      "areaclass": "kommune",
+      "areaname": "Gildesk\u00e5l",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1839",
+      "areaclass": "kommune",
+      "areaname": "Beiarn",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1839",
+      "areaclass": "kommune",
+      "areaname": "Beiarn",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1839",
+      "areaclass": "kommune",
+      "areaname": "Beiarn",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1839",
+      "areaclass": "kommune",
+      "areaname": "Beiarn",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1840",
+      "areaclass": "kommune",
+      "areaname": "Saltdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1840",
+      "areaclass": "kommune",
+      "areaname": "Saltdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1840",
+      "areaclass": "kommune",
+      "areaname": "Saltdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1840",
+      "areaclass": "kommune",
+      "areaname": "Saltdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1841",
+      "areaclass": "kommune",
+      "areaname": "Fauske,Fuossko",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1841",
+      "areaclass": "kommune",
+      "areaname": "Fauske,Fuossko",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1841",
+      "areaclass": "kommune",
+      "areaname": "Fauske,Fuossko",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1841",
+      "areaclass": "kommune",
+      "areaname": "Fauske,Fuossko",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1845",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8rfold",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1845",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8rfold",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1845",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8rfold",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1845",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8rfold",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1848",
+      "areaclass": "kommune",
+      "areaname": "Steigen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1848",
+      "areaclass": "kommune",
+      "areaname": "Steigen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1848",
+      "areaclass": "kommune",
+      "areaname": "Steigen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1848",
+      "areaclass": "kommune",
+      "areaname": "Steigen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1851",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8dingen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1851",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8dingen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1851",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8dingen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1851",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8dingen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1853",
+      "areaclass": "kommune",
+      "areaname": "Evenes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1853",
+      "areaclass": "kommune",
+      "areaname": "Evenes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1853",
+      "areaclass": "kommune",
+      "areaname": "Evenes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1853",
+      "areaclass": "kommune",
+      "areaname": "Evenes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1856",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8st",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1856",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8st",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1856",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8st",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1856",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8st",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1857",
+      "areaclass": "kommune",
+      "areaname": "V\u00e6r\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1857",
+      "areaclass": "kommune",
+      "areaname": "V\u00e6r\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1857",
+      "areaclass": "kommune",
+      "areaname": "V\u00e6r\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1857",
+      "areaclass": "kommune",
+      "areaname": "V\u00e6r\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1859",
+      "areaclass": "kommune",
+      "areaname": "Flakstad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1859",
+      "areaclass": "kommune",
+      "areaname": "Flakstad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1859",
+      "areaclass": "kommune",
+      "areaname": "Flakstad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1859",
+      "areaclass": "kommune",
+      "areaname": "Flakstad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1860",
+      "areaclass": "kommune",
+      "areaname": "Vestv\u00e5g\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1860",
+      "areaclass": "kommune",
+      "areaname": "Vestv\u00e5g\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1860",
+      "areaclass": "kommune",
+      "areaname": "Vestv\u00e5g\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1860",
+      "areaclass": "kommune",
+      "areaname": "Vestv\u00e5g\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1865",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5gan",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1865",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5gan",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1865",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5gan",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1865",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5gan",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1866",
+      "areaclass": "kommune",
+      "areaname": "Hadsel",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1866",
+      "areaclass": "kommune",
+      "areaname": "Hadsel",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1866",
+      "areaclass": "kommune",
+      "areaname": "Hadsel",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1866",
+      "areaclass": "kommune",
+      "areaname": "Hadsel",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1867",
+      "areaclass": "kommune",
+      "areaname": "B\u00f8",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1867",
+      "areaclass": "kommune",
+      "areaname": "B\u00f8",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1867",
+      "areaclass": "kommune",
+      "areaname": "B\u00f8",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1867",
+      "areaclass": "kommune",
+      "areaname": "B\u00f8",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1868",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ksnes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1868",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ksnes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1868",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ksnes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1868",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ksnes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1870",
+      "areaclass": "kommune",
+      "areaname": "Sortland,Suort\u00e1",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1870",
+      "areaclass": "kommune",
+      "areaname": "Sortland,Suort\u00e1",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1870",
+      "areaclass": "kommune",
+      "areaname": "Sortland,Suort\u00e1",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1870",
+      "areaclass": "kommune",
+      "areaname": "Sortland,Suort\u00e1",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1871",
+      "areaclass": "kommune",
+      "areaname": "And\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1871",
+      "areaclass": "kommune",
+      "areaname": "And\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1871",
+      "areaclass": "kommune",
+      "areaname": "And\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1871",
+      "areaclass": "kommune",
+      "areaname": "And\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1874",
+      "areaclass": "kommune",
+      "areaname": "Moskenes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1874",
+      "areaclass": "kommune",
+      "areaname": "Moskenes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1874",
+      "areaclass": "kommune",
+      "areaname": "Moskenes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1874",
+      "areaclass": "kommune",
+      "areaname": "Moskenes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "1875",
+      "areaclass": "kommune",
+      "areaname": "Hamar\u00f8y,H\u00e1bmer",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "1875",
+      "areaclass": "kommune",
+      "areaname": "Hamar\u00f8y,H\u00e1bmer",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "1875",
+      "areaclass": "kommune",
+      "areaname": "Hamar\u00f8y,H\u00e1bmer",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "1875",
+      "areaclass": "kommune",
+      "areaname": "Hamar\u00f8y,H\u00e1bmer",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3001",
+      "areaclass": "kommune",
+      "areaname": "Halden",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3001",
+      "areaclass": "kommune",
+      "areaname": "Halden",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3001",
+      "areaclass": "kommune",
+      "areaname": "Halden",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3001",
+      "areaclass": "kommune",
+      "areaname": "Halden",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3002",
+      "areaclass": "kommune",
+      "areaname": "Moss",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3002",
+      "areaclass": "kommune",
+      "areaname": "Moss",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3002",
+      "areaclass": "kommune",
+      "areaname": "Moss",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3002",
+      "areaclass": "kommune",
+      "areaname": "Moss",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3003",
+      "areaclass": "kommune",
+      "areaname": "Sarpsborg",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3003",
+      "areaclass": "kommune",
+      "areaname": "Sarpsborg",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3003",
+      "areaclass": "kommune",
+      "areaname": "Sarpsborg",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3003",
+      "areaclass": "kommune",
+      "areaname": "Sarpsborg",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3004",
+      "areaclass": "kommune",
+      "areaname": "Fredrikstad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3004",
+      "areaclass": "kommune",
+      "areaname": "Fredrikstad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3004",
+      "areaclass": "kommune",
+      "areaname": "Fredrikstad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3004",
+      "areaclass": "kommune",
+      "areaname": "Fredrikstad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3005",
+      "areaclass": "kommune",
+      "areaname": "Drammen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3005",
+      "areaclass": "kommune",
+      "areaname": "Drammen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3005",
+      "areaclass": "kommune",
+      "areaname": "Drammen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3005",
+      "areaclass": "kommune",
+      "areaname": "Drammen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3006",
+      "areaclass": "kommune",
+      "areaname": "Kongsberg",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3006",
+      "areaclass": "kommune",
+      "areaname": "Kongsberg",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3006",
+      "areaclass": "kommune",
+      "areaname": "Kongsberg",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3006",
+      "areaclass": "kommune",
+      "areaname": "Kongsberg",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3007",
+      "areaclass": "kommune",
+      "areaname": "Ringerike",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3007",
+      "areaclass": "kommune",
+      "areaname": "Ringerike",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3007",
+      "areaclass": "kommune",
+      "areaname": "Ringerike",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3007",
+      "areaclass": "kommune",
+      "areaname": "Ringerike",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3011",
+      "areaclass": "kommune",
+      "areaname": "Hvaler",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3011",
+      "areaclass": "kommune",
+      "areaname": "Hvaler",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3011",
+      "areaclass": "kommune",
+      "areaname": "Hvaler",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3011",
+      "areaclass": "kommune",
+      "areaname": "Hvaler",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3012",
+      "areaclass": "kommune",
+      "areaname": "Aremark",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3012",
+      "areaclass": "kommune",
+      "areaname": "Aremark",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3012",
+      "areaclass": "kommune",
+      "areaname": "Aremark",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3012",
+      "areaclass": "kommune",
+      "areaname": "Aremark",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3013",
+      "areaclass": "kommune",
+      "areaname": "Marker",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3013",
+      "areaclass": "kommune",
+      "areaname": "Marker",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3013",
+      "areaclass": "kommune",
+      "areaname": "Marker",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3013",
+      "areaclass": "kommune",
+      "areaname": "Marker",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3014",
+      "areaclass": "kommune",
+      "areaname": "Indre \u00d8stfold",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3014",
+      "areaclass": "kommune",
+      "areaname": "Indre \u00d8stfold",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3014",
+      "areaclass": "kommune",
+      "areaname": "Indre \u00d8stfold",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3014",
+      "areaclass": "kommune",
+      "areaname": "Indre \u00d8stfold",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3015",
+      "areaclass": "kommune",
+      "areaname": "Skiptvet",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3015",
+      "areaclass": "kommune",
+      "areaname": "Skiptvet",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3015",
+      "areaclass": "kommune",
+      "areaname": "Skiptvet",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3015",
+      "areaclass": "kommune",
+      "areaname": "Skiptvet",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3016",
+      "areaclass": "kommune",
+      "areaname": "Rakkestad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3016",
+      "areaclass": "kommune",
+      "areaname": "Rakkestad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3016",
+      "areaclass": "kommune",
+      "areaname": "Rakkestad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3016",
+      "areaclass": "kommune",
+      "areaname": "Rakkestad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3017",
+      "areaclass": "kommune",
+      "areaname": "R\u00e5de",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3017",
+      "areaclass": "kommune",
+      "areaname": "R\u00e5de",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3017",
+      "areaclass": "kommune",
+      "areaname": "R\u00e5de",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3017",
+      "areaclass": "kommune",
+      "areaname": "R\u00e5de",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3018",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5ler",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3018",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5ler",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3018",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5ler",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3018",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5ler",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3019",
+      "areaclass": "kommune",
+      "areaname": "Vestby",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3019",
+      "areaclass": "kommune",
+      "areaname": "Vestby",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3019",
+      "areaclass": "kommune",
+      "areaname": "Vestby",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3019",
+      "areaclass": "kommune",
+      "areaname": "Vestby",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3020",
+      "areaclass": "kommune",
+      "areaname": "Nordre Follo",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3020",
+      "areaclass": "kommune",
+      "areaname": "Nordre Follo",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3020",
+      "areaclass": "kommune",
+      "areaname": "Nordre Follo",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3020",
+      "areaclass": "kommune",
+      "areaname": "Nordre Follo",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3021",
+      "areaclass": "kommune",
+      "areaname": "\u00c5s",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3021",
+      "areaclass": "kommune",
+      "areaname": "\u00c5s",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3021",
+      "areaclass": "kommune",
+      "areaname": "\u00c5s",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3021",
+      "areaclass": "kommune",
+      "areaname": "\u00c5s",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3022",
+      "areaclass": "kommune",
+      "areaname": "Frogn",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3022",
+      "areaclass": "kommune",
+      "areaname": "Frogn",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3022",
+      "areaclass": "kommune",
+      "areaname": "Frogn",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3022",
+      "areaclass": "kommune",
+      "areaname": "Frogn",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3023",
+      "areaclass": "kommune",
+      "areaname": "Nesodden",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3023",
+      "areaclass": "kommune",
+      "areaname": "Nesodden",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3023",
+      "areaclass": "kommune",
+      "areaname": "Nesodden",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3023",
+      "areaclass": "kommune",
+      "areaname": "Nesodden",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3024",
+      "areaclass": "kommune",
+      "areaname": "B\u00e6rum",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3024",
+      "areaclass": "kommune",
+      "areaname": "B\u00e6rum",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3024",
+      "areaclass": "kommune",
+      "areaname": "B\u00e6rum",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3024",
+      "areaclass": "kommune",
+      "areaname": "B\u00e6rum",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3025",
+      "areaclass": "kommune",
+      "areaname": "Asker",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3025",
+      "areaclass": "kommune",
+      "areaname": "Asker",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3025",
+      "areaclass": "kommune",
+      "areaname": "Asker",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3025",
+      "areaclass": "kommune",
+      "areaname": "Asker",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3026",
+      "areaclass": "kommune",
+      "areaname": "Aurskog-H\u00f8land",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3026",
+      "areaclass": "kommune",
+      "areaname": "Aurskog-H\u00f8land",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3026",
+      "areaclass": "kommune",
+      "areaname": "Aurskog-H\u00f8land",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3026",
+      "areaclass": "kommune",
+      "areaname": "Aurskog-H\u00f8land",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3027",
+      "areaclass": "kommune",
+      "areaname": "R\u00e6lingen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3027",
+      "areaclass": "kommune",
+      "areaname": "R\u00e6lingen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3027",
+      "areaclass": "kommune",
+      "areaname": "R\u00e6lingen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3027",
+      "areaclass": "kommune",
+      "areaname": "R\u00e6lingen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3028",
+      "areaclass": "kommune",
+      "areaname": "Enebakk",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3028",
+      "areaclass": "kommune",
+      "areaname": "Enebakk",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3028",
+      "areaclass": "kommune",
+      "areaname": "Enebakk",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3028",
+      "areaclass": "kommune",
+      "areaname": "Enebakk",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3029",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8renskog",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3029",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8renskog",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3029",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8renskog",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3029",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8renskog",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3030",
+      "areaclass": "kommune",
+      "areaname": "Lillestr\u00f8m",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3030",
+      "areaclass": "kommune",
+      "areaname": "Lillestr\u00f8m",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3030",
+      "areaclass": "kommune",
+      "areaname": "Lillestr\u00f8m",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3030",
+      "areaclass": "kommune",
+      "areaname": "Lillestr\u00f8m",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3031",
+      "areaclass": "kommune",
+      "areaname": "Nittedal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3031",
+      "areaclass": "kommune",
+      "areaname": "Nittedal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3031",
+      "areaclass": "kommune",
+      "areaname": "Nittedal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3031",
+      "areaclass": "kommune",
+      "areaname": "Nittedal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3032",
+      "areaclass": "kommune",
+      "areaname": "Gjerdrum",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3032",
+      "areaclass": "kommune",
+      "areaname": "Gjerdrum",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3032",
+      "areaclass": "kommune",
+      "areaname": "Gjerdrum",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3032",
+      "areaclass": "kommune",
+      "areaname": "Gjerdrum",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3033",
+      "areaclass": "kommune",
+      "areaname": "Ullensaker",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3033",
+      "areaclass": "kommune",
+      "areaname": "Ullensaker",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3033",
+      "areaclass": "kommune",
+      "areaname": "Ullensaker",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3033",
+      "areaclass": "kommune",
+      "areaname": "Ullensaker",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3034",
+      "areaclass": "kommune",
+      "areaname": "Nes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3034",
+      "areaclass": "kommune",
+      "areaname": "Nes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3034",
+      "areaclass": "kommune",
+      "areaname": "Nes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3034",
+      "areaclass": "kommune",
+      "areaname": "Nes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3035",
+      "areaclass": "kommune",
+      "areaname": "Eidsvoll",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3035",
+      "areaclass": "kommune",
+      "areaname": "Eidsvoll",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3035",
+      "areaclass": "kommune",
+      "areaname": "Eidsvoll",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3035",
+      "areaclass": "kommune",
+      "areaname": "Eidsvoll",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3036",
+      "areaclass": "kommune",
+      "areaname": "Nannestad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3036",
+      "areaclass": "kommune",
+      "areaname": "Nannestad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3036",
+      "areaclass": "kommune",
+      "areaname": "Nannestad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3036",
+      "areaclass": "kommune",
+      "areaname": "Nannestad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3037",
+      "areaclass": "kommune",
+      "areaname": "Hurdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3037",
+      "areaclass": "kommune",
+      "areaname": "Hurdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3037",
+      "areaclass": "kommune",
+      "areaname": "Hurdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3037",
+      "areaclass": "kommune",
+      "areaname": "Hurdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3038",
+      "areaclass": "kommune",
+      "areaname": "Hole",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3038",
+      "areaclass": "kommune",
+      "areaname": "Hole",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3038",
+      "areaclass": "kommune",
+      "areaname": "Hole",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3038",
+      "areaclass": "kommune",
+      "areaname": "Hole",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3039",
+      "areaclass": "kommune",
+      "areaname": "Fl\u00e5",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3039",
+      "areaclass": "kommune",
+      "areaname": "Fl\u00e5",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3039",
+      "areaclass": "kommune",
+      "areaname": "Fl\u00e5",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3039",
+      "areaclass": "kommune",
+      "areaname": "Fl\u00e5",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3040",
+      "areaclass": "kommune",
+      "areaname": "Nesbyen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3040",
+      "areaclass": "kommune",
+      "areaname": "Nesbyen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3040",
+      "areaclass": "kommune",
+      "areaname": "Nesbyen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3040",
+      "areaclass": "kommune",
+      "areaname": "Nesbyen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3041",
+      "areaclass": "kommune",
+      "areaname": "Gol",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3041",
+      "areaclass": "kommune",
+      "areaname": "Gol",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3041",
+      "areaclass": "kommune",
+      "areaname": "Gol",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3041",
+      "areaclass": "kommune",
+      "areaname": "Gol",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3042",
+      "areaclass": "kommune",
+      "areaname": "Hemsedal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3042",
+      "areaclass": "kommune",
+      "areaname": "Hemsedal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3042",
+      "areaclass": "kommune",
+      "areaname": "Hemsedal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3042",
+      "areaclass": "kommune",
+      "areaname": "Hemsedal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3043",
+      "areaclass": "kommune",
+      "areaname": "\u00c5l",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3043",
+      "areaclass": "kommune",
+      "areaname": "\u00c5l",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3043",
+      "areaclass": "kommune",
+      "areaname": "\u00c5l",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3043",
+      "areaclass": "kommune",
+      "areaname": "\u00c5l",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3044",
+      "areaclass": "kommune",
+      "areaname": "Hol",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3044",
+      "areaclass": "kommune",
+      "areaname": "Hol",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3044",
+      "areaclass": "kommune",
+      "areaname": "Hol",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3044",
+      "areaclass": "kommune",
+      "areaname": "Hol",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3045",
+      "areaclass": "kommune",
+      "areaname": "Sigdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3045",
+      "areaclass": "kommune",
+      "areaname": "Sigdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3045",
+      "areaclass": "kommune",
+      "areaname": "Sigdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3045",
+      "areaclass": "kommune",
+      "areaname": "Sigdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3046",
+      "areaclass": "kommune",
+      "areaname": "Kr\u00f8dsherad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3046",
+      "areaclass": "kommune",
+      "areaname": "Kr\u00f8dsherad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3046",
+      "areaclass": "kommune",
+      "areaname": "Kr\u00f8dsherad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3046",
+      "areaclass": "kommune",
+      "areaname": "Kr\u00f8dsherad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3047",
+      "areaclass": "kommune",
+      "areaname": "Modum",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3047",
+      "areaclass": "kommune",
+      "areaname": "Modum",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3047",
+      "areaclass": "kommune",
+      "areaname": "Modum",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3047",
+      "areaclass": "kommune",
+      "areaname": "Modum",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3048",
+      "areaclass": "kommune",
+      "areaname": "\u00d8vre Eiker",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3048",
+      "areaclass": "kommune",
+      "areaname": "\u00d8vre Eiker",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3048",
+      "areaclass": "kommune",
+      "areaname": "\u00d8vre Eiker",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3048",
+      "areaclass": "kommune",
+      "areaname": "\u00d8vre Eiker",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3049",
+      "areaclass": "kommune",
+      "areaname": "Lier",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3049",
+      "areaclass": "kommune",
+      "areaname": "Lier",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3049",
+      "areaclass": "kommune",
+      "areaname": "Lier",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3049",
+      "areaclass": "kommune",
+      "areaname": "Lier",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3050",
+      "areaclass": "kommune",
+      "areaname": "Flesberg",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3050",
+      "areaclass": "kommune",
+      "areaname": "Flesberg",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3050",
+      "areaclass": "kommune",
+      "areaname": "Flesberg",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3050",
+      "areaclass": "kommune",
+      "areaname": "Flesberg",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3051",
+      "areaclass": "kommune",
+      "areaname": "Rollag",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3051",
+      "areaclass": "kommune",
+      "areaname": "Rollag",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3051",
+      "areaclass": "kommune",
+      "areaname": "Rollag",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3051",
+      "areaclass": "kommune",
+      "areaname": "Rollag",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3052",
+      "areaclass": "kommune",
+      "areaname": "Nore og Uvdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3052",
+      "areaclass": "kommune",
+      "areaname": "Nore og Uvdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3052",
+      "areaclass": "kommune",
+      "areaname": "Nore og Uvdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3052",
+      "areaclass": "kommune",
+      "areaname": "Nore og Uvdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3053",
+      "areaclass": "kommune",
+      "areaname": "Jevnaker",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3053",
+      "areaclass": "kommune",
+      "areaname": "Jevnaker",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3053",
+      "areaclass": "kommune",
+      "areaname": "Jevnaker",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3053",
+      "areaclass": "kommune",
+      "areaname": "Jevnaker",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3054",
+      "areaclass": "kommune",
+      "areaname": "Lunner",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3054",
+      "areaclass": "kommune",
+      "areaname": "Lunner",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3054",
+      "areaclass": "kommune",
+      "areaname": "Lunner",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3054",
+      "areaclass": "kommune",
+      "areaname": "Lunner",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3401",
+      "areaclass": "kommune",
+      "areaname": "Kongsvinger",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3401",
+      "areaclass": "kommune",
+      "areaname": "Kongsvinger",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3401",
+      "areaclass": "kommune",
+      "areaname": "Kongsvinger",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3401",
+      "areaclass": "kommune",
+      "areaname": "Kongsvinger",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3403",
+      "areaclass": "kommune",
+      "areaname": "Hamar",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3403",
+      "areaclass": "kommune",
+      "areaname": "Hamar",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3403",
+      "areaclass": "kommune",
+      "areaname": "Hamar",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3403",
+      "areaclass": "kommune",
+      "areaname": "Hamar",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3405",
+      "areaclass": "kommune",
+      "areaname": "Lillehammer",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3405",
+      "areaclass": "kommune",
+      "areaname": "Lillehammer",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3405",
+      "areaclass": "kommune",
+      "areaname": "Lillehammer",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3405",
+      "areaclass": "kommune",
+      "areaname": "Lillehammer",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3407",
+      "areaclass": "kommune",
+      "areaname": "Gj\u00f8vik",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3407",
+      "areaclass": "kommune",
+      "areaname": "Gj\u00f8vik",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3407",
+      "areaclass": "kommune",
+      "areaname": "Gj\u00f8vik",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3407",
+      "areaclass": "kommune",
+      "areaname": "Gj\u00f8vik",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3411",
+      "areaclass": "kommune",
+      "areaname": "Ringsaker",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3411",
+      "areaclass": "kommune",
+      "areaname": "Ringsaker",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3411",
+      "areaclass": "kommune",
+      "areaname": "Ringsaker",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3411",
+      "areaclass": "kommune",
+      "areaname": "Ringsaker",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3412",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8ten",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3412",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8ten",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3412",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8ten",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3412",
+      "areaclass": "kommune",
+      "areaname": "L\u00f8ten",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3413",
+      "areaclass": "kommune",
+      "areaname": "Stange",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3413",
+      "areaclass": "kommune",
+      "areaname": "Stange",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3413",
+      "areaclass": "kommune",
+      "areaname": "Stange",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3413",
+      "areaclass": "kommune",
+      "areaname": "Stange",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3414",
+      "areaclass": "kommune",
+      "areaname": "Nord-Odal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3414",
+      "areaclass": "kommune",
+      "areaname": "Nord-Odal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3414",
+      "areaclass": "kommune",
+      "areaname": "Nord-Odal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3414",
+      "areaclass": "kommune",
+      "areaname": "Nord-Odal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3415",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Odal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3415",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Odal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3415",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Odal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3415",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Odal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3416",
+      "areaclass": "kommune",
+      "areaname": "Eidskog",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3416",
+      "areaclass": "kommune",
+      "areaname": "Eidskog",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3416",
+      "areaclass": "kommune",
+      "areaname": "Eidskog",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3416",
+      "areaclass": "kommune",
+      "areaname": "Eidskog",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3417",
+      "areaclass": "kommune",
+      "areaname": "Grue",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3417",
+      "areaclass": "kommune",
+      "areaname": "Grue",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3417",
+      "areaclass": "kommune",
+      "areaname": "Grue",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3417",
+      "areaclass": "kommune",
+      "areaname": "Grue",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3418",
+      "areaclass": "kommune",
+      "areaname": "\u00c5snes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3418",
+      "areaclass": "kommune",
+      "areaname": "\u00c5snes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3418",
+      "areaclass": "kommune",
+      "areaname": "\u00c5snes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3418",
+      "areaclass": "kommune",
+      "areaname": "\u00c5snes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3419",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5ler",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3419",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5ler",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3419",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5ler",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3419",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5ler",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3420",
+      "areaclass": "kommune",
+      "areaname": "Elverum",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3420",
+      "areaclass": "kommune",
+      "areaname": "Elverum",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3420",
+      "areaclass": "kommune",
+      "areaname": "Elverum",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3420",
+      "areaclass": "kommune",
+      "areaname": "Elverum",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3421",
+      "areaclass": "kommune",
+      "areaname": "Trysil",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3421",
+      "areaclass": "kommune",
+      "areaname": "Trysil",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3421",
+      "areaclass": "kommune",
+      "areaname": "Trysil",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3421",
+      "areaclass": "kommune",
+      "areaname": "Trysil",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3422",
+      "areaclass": "kommune",
+      "areaname": "\u00c5mot",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3422",
+      "areaclass": "kommune",
+      "areaname": "\u00c5mot",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3422",
+      "areaclass": "kommune",
+      "areaname": "\u00c5mot",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3422",
+      "areaclass": "kommune",
+      "areaname": "\u00c5mot",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3423",
+      "areaclass": "kommune",
+      "areaname": "Stor-Elvdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3423",
+      "areaclass": "kommune",
+      "areaname": "Stor-Elvdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3423",
+      "areaclass": "kommune",
+      "areaname": "Stor-Elvdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3423",
+      "areaclass": "kommune",
+      "areaname": "Stor-Elvdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3424",
+      "areaclass": "kommune",
+      "areaname": "Rendalen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3424",
+      "areaclass": "kommune",
+      "areaname": "Rendalen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3424",
+      "areaclass": "kommune",
+      "areaname": "Rendalen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3424",
+      "areaclass": "kommune",
+      "areaname": "Rendalen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3425",
+      "areaclass": "kommune",
+      "areaname": "Engerdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3425",
+      "areaclass": "kommune",
+      "areaname": "Engerdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3425",
+      "areaclass": "kommune",
+      "areaname": "Engerdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3425",
+      "areaclass": "kommune",
+      "areaname": "Engerdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3426",
+      "areaclass": "kommune",
+      "areaname": "Tolga",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3426",
+      "areaclass": "kommune",
+      "areaname": "Tolga",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3426",
+      "areaclass": "kommune",
+      "areaname": "Tolga",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3426",
+      "areaclass": "kommune",
+      "areaname": "Tolga",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3427",
+      "areaclass": "kommune",
+      "areaname": "Tynset",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3427",
+      "areaclass": "kommune",
+      "areaname": "Tynset",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3427",
+      "areaclass": "kommune",
+      "areaname": "Tynset",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3427",
+      "areaclass": "kommune",
+      "areaname": "Tynset",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3428",
+      "areaclass": "kommune",
+      "areaname": "Alvdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3428",
+      "areaclass": "kommune",
+      "areaname": "Alvdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3428",
+      "areaclass": "kommune",
+      "areaname": "Alvdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3428",
+      "areaclass": "kommune",
+      "areaname": "Alvdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3429",
+      "areaclass": "kommune",
+      "areaname": "Folldal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3429",
+      "areaclass": "kommune",
+      "areaname": "Folldal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3429",
+      "areaclass": "kommune",
+      "areaname": "Folldal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3429",
+      "areaclass": "kommune",
+      "areaname": "Folldal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3430",
+      "areaclass": "kommune",
+      "areaname": "Os",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3430",
+      "areaclass": "kommune",
+      "areaname": "Os",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3430",
+      "areaclass": "kommune",
+      "areaname": "Os",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3430",
+      "areaclass": "kommune",
+      "areaname": "Os",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3431",
+      "areaclass": "kommune",
+      "areaname": "Dovre",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3431",
+      "areaclass": "kommune",
+      "areaname": "Dovre",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3431",
+      "areaclass": "kommune",
+      "areaname": "Dovre",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3431",
+      "areaclass": "kommune",
+      "areaname": "Dovre",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3432",
+      "areaclass": "kommune",
+      "areaname": "Lesja",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3432",
+      "areaclass": "kommune",
+      "areaname": "Lesja",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3432",
+      "areaclass": "kommune",
+      "areaname": "Lesja",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3432",
+      "areaclass": "kommune",
+      "areaname": "Lesja",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3433",
+      "areaclass": "kommune",
+      "areaname": "Skj\u00e5k",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3433",
+      "areaclass": "kommune",
+      "areaname": "Skj\u00e5k",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3433",
+      "areaclass": "kommune",
+      "areaname": "Skj\u00e5k",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3433",
+      "areaclass": "kommune",
+      "areaname": "Skj\u00e5k",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3434",
+      "areaclass": "kommune",
+      "areaname": "Lom",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3434",
+      "areaclass": "kommune",
+      "areaname": "Lom",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3434",
+      "areaclass": "kommune",
+      "areaname": "Lom",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3434",
+      "areaclass": "kommune",
+      "areaname": "Lom",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3435",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5g\u00e5",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3435",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5g\u00e5",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3435",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5g\u00e5",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3435",
+      "areaclass": "kommune",
+      "areaname": "V\u00e5g\u00e5",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3436",
+      "areaclass": "kommune",
+      "areaname": "Nord-Fron",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3436",
+      "areaclass": "kommune",
+      "areaname": "Nord-Fron",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3436",
+      "areaclass": "kommune",
+      "areaname": "Nord-Fron",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3436",
+      "areaclass": "kommune",
+      "areaname": "Nord-Fron",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3437",
+      "areaclass": "kommune",
+      "areaname": "Sel",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3437",
+      "areaclass": "kommune",
+      "areaname": "Sel",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3437",
+      "areaclass": "kommune",
+      "areaname": "Sel",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3437",
+      "areaclass": "kommune",
+      "areaname": "Sel",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3438",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Fron",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3438",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Fron",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3438",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Fron",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3438",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Fron",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3439",
+      "areaclass": "kommune",
+      "areaname": "Ringebu",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3439",
+      "areaclass": "kommune",
+      "areaname": "Ringebu",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3439",
+      "areaclass": "kommune",
+      "areaname": "Ringebu",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3439",
+      "areaclass": "kommune",
+      "areaname": "Ringebu",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3440",
+      "areaclass": "kommune",
+      "areaname": "\u00d8yer",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3440",
+      "areaclass": "kommune",
+      "areaname": "\u00d8yer",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3440",
+      "areaclass": "kommune",
+      "areaname": "\u00d8yer",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3440",
+      "areaclass": "kommune",
+      "areaname": "\u00d8yer",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3441",
+      "areaclass": "kommune",
+      "areaname": "Gausdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3441",
+      "areaclass": "kommune",
+      "areaname": "Gausdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3441",
+      "areaclass": "kommune",
+      "areaname": "Gausdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3441",
+      "areaclass": "kommune",
+      "areaname": "Gausdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3442",
+      "areaclass": "kommune",
+      "areaname": "\u00d8stre Toten",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3442",
+      "areaclass": "kommune",
+      "areaname": "\u00d8stre Toten",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3442",
+      "areaclass": "kommune",
+      "areaname": "\u00d8stre Toten",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3442",
+      "areaclass": "kommune",
+      "areaname": "\u00d8stre Toten",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3443",
+      "areaclass": "kommune",
+      "areaname": "Vestre Toten",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3443",
+      "areaclass": "kommune",
+      "areaname": "Vestre Toten",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3443",
+      "areaclass": "kommune",
+      "areaname": "Vestre Toten",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3443",
+      "areaclass": "kommune",
+      "areaname": "Vestre Toten",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3446",
+      "areaclass": "kommune",
+      "areaname": "Gran",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3446",
+      "areaclass": "kommune",
+      "areaname": "Gran",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3446",
+      "areaclass": "kommune",
+      "areaname": "Gran",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3446",
+      "areaclass": "kommune",
+      "areaname": "Gran",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3447",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8ndre Land",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3447",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8ndre Land",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3447",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8ndre Land",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3447",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8ndre Land",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3448",
+      "areaclass": "kommune",
+      "areaname": "Nordre Land",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3448",
+      "areaclass": "kommune",
+      "areaname": "Nordre Land",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3448",
+      "areaclass": "kommune",
+      "areaname": "Nordre Land",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3448",
+      "areaclass": "kommune",
+      "areaname": "Nordre Land",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3449",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Aurdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3449",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Aurdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3449",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Aurdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3449",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Aurdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3450",
+      "areaclass": "kommune",
+      "areaname": "Etnedal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3450",
+      "areaclass": "kommune",
+      "areaname": "Etnedal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3450",
+      "areaclass": "kommune",
+      "areaname": "Etnedal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3450",
+      "areaclass": "kommune",
+      "areaname": "Etnedal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3451",
+      "areaclass": "kommune",
+      "areaname": "Nord-Aurdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3451",
+      "areaclass": "kommune",
+      "areaname": "Nord-Aurdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3451",
+      "areaclass": "kommune",
+      "areaname": "Nord-Aurdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3451",
+      "areaclass": "kommune",
+      "areaname": "Nord-Aurdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3452",
+      "areaclass": "kommune",
+      "areaname": "Vestre Slidre",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3452",
+      "areaclass": "kommune",
+      "areaname": "Vestre Slidre",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3452",
+      "areaclass": "kommune",
+      "areaname": "Vestre Slidre",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3452",
+      "areaclass": "kommune",
+      "areaname": "Vestre Slidre",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3453",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ystre Slidre",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3453",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ystre Slidre",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3453",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ystre Slidre",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3453",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ystre Slidre",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3454",
+      "areaclass": "kommune",
+      "areaname": "Vang",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3454",
+      "areaclass": "kommune",
+      "areaname": "Vang",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3454",
+      "areaclass": "kommune",
+      "areaname": "Vang",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3454",
+      "areaclass": "kommune",
+      "areaname": "Vang",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3801",
+      "areaclass": "kommune",
+      "areaname": "Horten",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3801",
+      "areaclass": "kommune",
+      "areaname": "Horten",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3801",
+      "areaclass": "kommune",
+      "areaname": "Horten",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3801",
+      "areaclass": "kommune",
+      "areaname": "Horten",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3802",
+      "areaclass": "kommune",
+      "areaname": "Holmestrand",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3802",
+      "areaclass": "kommune",
+      "areaname": "Holmestrand",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3802",
+      "areaclass": "kommune",
+      "areaname": "Holmestrand",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3802",
+      "areaclass": "kommune",
+      "areaname": "Holmestrand",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3803",
+      "areaclass": "kommune",
+      "areaname": "T\u00f8nsberg",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3803",
+      "areaclass": "kommune",
+      "areaname": "T\u00f8nsberg",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3803",
+      "areaclass": "kommune",
+      "areaname": "T\u00f8nsberg",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3803",
+      "areaclass": "kommune",
+      "areaname": "T\u00f8nsberg",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3804",
+      "areaclass": "kommune",
+      "areaname": "Sandefjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3804",
+      "areaclass": "kommune",
+      "areaname": "Sandefjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3804",
+      "areaclass": "kommune",
+      "areaname": "Sandefjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3804",
+      "areaclass": "kommune",
+      "areaname": "Sandefjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3805",
+      "areaclass": "kommune",
+      "areaname": "Larvik",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3805",
+      "areaclass": "kommune",
+      "areaname": "Larvik",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3805",
+      "areaclass": "kommune",
+      "areaname": "Larvik",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3805",
+      "areaclass": "kommune",
+      "areaname": "Larvik",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3806",
+      "areaclass": "kommune",
+      "areaname": "Porsgrunn",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3806",
+      "areaclass": "kommune",
+      "areaname": "Porsgrunn",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3806",
+      "areaclass": "kommune",
+      "areaname": "Porsgrunn",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3806",
+      "areaclass": "kommune",
+      "areaname": "Porsgrunn",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3807",
+      "areaclass": "kommune",
+      "areaname": "Skien",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3807",
+      "areaclass": "kommune",
+      "areaname": "Skien",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3807",
+      "areaclass": "kommune",
+      "areaname": "Skien",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3807",
+      "areaclass": "kommune",
+      "areaname": "Skien",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3808",
+      "areaclass": "kommune",
+      "areaname": "Notodden",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3808",
+      "areaclass": "kommune",
+      "areaname": "Notodden",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3808",
+      "areaclass": "kommune",
+      "areaname": "Notodden",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3808",
+      "areaclass": "kommune",
+      "areaname": "Notodden",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3811",
+      "areaclass": "kommune",
+      "areaname": "F\u00e6rder",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3811",
+      "areaclass": "kommune",
+      "areaname": "F\u00e6rder",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3811",
+      "areaclass": "kommune",
+      "areaname": "F\u00e6rder",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3811",
+      "areaclass": "kommune",
+      "areaname": "F\u00e6rder",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3812",
+      "areaclass": "kommune",
+      "areaname": "Siljan",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3812",
+      "areaclass": "kommune",
+      "areaname": "Siljan",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3812",
+      "areaclass": "kommune",
+      "areaname": "Siljan",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3812",
+      "areaclass": "kommune",
+      "areaname": "Siljan",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3813",
+      "areaclass": "kommune",
+      "areaname": "Bamble",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3813",
+      "areaclass": "kommune",
+      "areaname": "Bamble",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3813",
+      "areaclass": "kommune",
+      "areaname": "Bamble",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3813",
+      "areaclass": "kommune",
+      "areaname": "Bamble",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3814",
+      "areaclass": "kommune",
+      "areaname": "Krager\u00f8",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3814",
+      "areaclass": "kommune",
+      "areaname": "Krager\u00f8",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3814",
+      "areaclass": "kommune",
+      "areaname": "Krager\u00f8",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3814",
+      "areaclass": "kommune",
+      "areaname": "Krager\u00f8",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3815",
+      "areaclass": "kommune",
+      "areaname": "Drangedal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3815",
+      "areaclass": "kommune",
+      "areaname": "Drangedal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3815",
+      "areaclass": "kommune",
+      "areaname": "Drangedal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3815",
+      "areaclass": "kommune",
+      "areaname": "Drangedal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3816",
+      "areaclass": "kommune",
+      "areaname": "Nome",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3816",
+      "areaclass": "kommune",
+      "areaname": "Nome",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3816",
+      "areaclass": "kommune",
+      "areaname": "Nome",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3816",
+      "areaclass": "kommune",
+      "areaname": "Nome",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3817",
+      "areaclass": "kommune",
+      "areaname": "Midt-Telemark",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3817",
+      "areaclass": "kommune",
+      "areaname": "Midt-Telemark",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3817",
+      "areaclass": "kommune",
+      "areaname": "Midt-Telemark",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3817",
+      "areaclass": "kommune",
+      "areaname": "Midt-Telemark",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3818",
+      "areaclass": "kommune",
+      "areaname": "Tinn",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3818",
+      "areaclass": "kommune",
+      "areaname": "Tinn",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3818",
+      "areaclass": "kommune",
+      "areaname": "Tinn",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3818",
+      "areaclass": "kommune",
+      "areaname": "Tinn",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3819",
+      "areaclass": "kommune",
+      "areaname": "Hjartdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3819",
+      "areaclass": "kommune",
+      "areaname": "Hjartdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3819",
+      "areaclass": "kommune",
+      "areaname": "Hjartdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3819",
+      "areaclass": "kommune",
+      "areaname": "Hjartdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3820",
+      "areaclass": "kommune",
+      "areaname": "Seljord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3820",
+      "areaclass": "kommune",
+      "areaname": "Seljord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3820",
+      "areaclass": "kommune",
+      "areaname": "Seljord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3820",
+      "areaclass": "kommune",
+      "areaname": "Seljord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3821",
+      "areaclass": "kommune",
+      "areaname": "Kviteseid",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3821",
+      "areaclass": "kommune",
+      "areaname": "Kviteseid",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3821",
+      "areaclass": "kommune",
+      "areaname": "Kviteseid",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3821",
+      "areaclass": "kommune",
+      "areaname": "Kviteseid",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3822",
+      "areaclass": "kommune",
+      "areaname": "Nissedal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3822",
+      "areaclass": "kommune",
+      "areaname": "Nissedal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3822",
+      "areaclass": "kommune",
+      "areaname": "Nissedal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3822",
+      "areaclass": "kommune",
+      "areaname": "Nissedal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3823",
+      "areaclass": "kommune",
+      "areaname": "Fyresdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3823",
+      "areaclass": "kommune",
+      "areaname": "Fyresdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3823",
+      "areaclass": "kommune",
+      "areaname": "Fyresdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3823",
+      "areaclass": "kommune",
+      "areaname": "Fyresdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3824",
+      "areaclass": "kommune",
+      "areaname": "Tokke",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3824",
+      "areaclass": "kommune",
+      "areaname": "Tokke",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3824",
+      "areaclass": "kommune",
+      "areaname": "Tokke",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3824",
+      "areaclass": "kommune",
+      "areaname": "Tokke",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "3825",
+      "areaclass": "kommune",
+      "areaname": "Vinje",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "3825",
+      "areaclass": "kommune",
+      "areaname": "Vinje",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "3825",
+      "areaclass": "kommune",
+      "areaname": "Vinje",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "3825",
+      "areaclass": "kommune",
+      "areaname": "Vinje",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4201",
+      "areaclass": "kommune",
+      "areaname": "Ris\u00f8r",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4201",
+      "areaclass": "kommune",
+      "areaname": "Ris\u00f8r",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4201",
+      "areaclass": "kommune",
+      "areaname": "Ris\u00f8r",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4201",
+      "areaclass": "kommune",
+      "areaname": "Ris\u00f8r",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4202",
+      "areaclass": "kommune",
+      "areaname": "Grimstad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4202",
+      "areaclass": "kommune",
+      "areaname": "Grimstad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4202",
+      "areaclass": "kommune",
+      "areaname": "Grimstad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4202",
+      "areaclass": "kommune",
+      "areaname": "Grimstad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4203",
+      "areaclass": "kommune",
+      "areaname": "Arendal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4203",
+      "areaclass": "kommune",
+      "areaname": "Arendal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4203",
+      "areaclass": "kommune",
+      "areaname": "Arendal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4203",
+      "areaclass": "kommune",
+      "areaname": "Arendal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4204",
+      "areaclass": "kommune",
+      "areaname": "Kristiansand",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4204",
+      "areaclass": "kommune",
+      "areaname": "Kristiansand",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4204",
+      "areaclass": "kommune",
+      "areaname": "Kristiansand",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4204",
+      "areaclass": "kommune",
+      "areaname": "Kristiansand",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4205",
+      "areaclass": "kommune",
+      "areaname": "Lindesnes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4205",
+      "areaclass": "kommune",
+      "areaname": "Lindesnes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4205",
+      "areaclass": "kommune",
+      "areaname": "Lindesnes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4205",
+      "areaclass": "kommune",
+      "areaname": "Lindesnes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4206",
+      "areaclass": "kommune",
+      "areaname": "Farsund",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4206",
+      "areaclass": "kommune",
+      "areaname": "Farsund",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4206",
+      "areaclass": "kommune",
+      "areaname": "Farsund",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4206",
+      "areaclass": "kommune",
+      "areaname": "Farsund",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4207",
+      "areaclass": "kommune",
+      "areaname": "Flekkefjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4207",
+      "areaclass": "kommune",
+      "areaname": "Flekkefjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4207",
+      "areaclass": "kommune",
+      "areaname": "Flekkefjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4207",
+      "areaclass": "kommune",
+      "areaname": "Flekkefjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4211",
+      "areaclass": "kommune",
+      "areaname": "Gjerstad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4211",
+      "areaclass": "kommune",
+      "areaname": "Gjerstad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4211",
+      "areaclass": "kommune",
+      "areaname": "Gjerstad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4211",
+      "areaclass": "kommune",
+      "areaname": "Gjerstad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4212",
+      "areaclass": "kommune",
+      "areaname": "Veg\u00e5rshei",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4212",
+      "areaclass": "kommune",
+      "areaname": "Veg\u00e5rshei",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4212",
+      "areaclass": "kommune",
+      "areaname": "Veg\u00e5rshei",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4212",
+      "areaclass": "kommune",
+      "areaname": "Veg\u00e5rshei",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4213",
+      "areaclass": "kommune",
+      "areaname": "Tvedestrand",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4213",
+      "areaclass": "kommune",
+      "areaname": "Tvedestrand",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4213",
+      "areaclass": "kommune",
+      "areaname": "Tvedestrand",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4213",
+      "areaclass": "kommune",
+      "areaname": "Tvedestrand",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4214",
+      "areaclass": "kommune",
+      "areaname": "Froland",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4214",
+      "areaclass": "kommune",
+      "areaname": "Froland",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4214",
+      "areaclass": "kommune",
+      "areaname": "Froland",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4214",
+      "areaclass": "kommune",
+      "areaname": "Froland",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4215",
+      "areaclass": "kommune",
+      "areaname": "Lillesand",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4215",
+      "areaclass": "kommune",
+      "areaname": "Lillesand",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4215",
+      "areaclass": "kommune",
+      "areaname": "Lillesand",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4215",
+      "areaclass": "kommune",
+      "areaname": "Lillesand",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4216",
+      "areaclass": "kommune",
+      "areaname": "Birkenes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4216",
+      "areaclass": "kommune",
+      "areaname": "Birkenes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4216",
+      "areaclass": "kommune",
+      "areaname": "Birkenes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4216",
+      "areaclass": "kommune",
+      "areaname": "Birkenes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4217",
+      "areaclass": "kommune",
+      "areaname": "\u00c5mli",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4217",
+      "areaclass": "kommune",
+      "areaname": "\u00c5mli",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4217",
+      "areaclass": "kommune",
+      "areaname": "\u00c5mli",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4217",
+      "areaclass": "kommune",
+      "areaname": "\u00c5mli",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4218",
+      "areaclass": "kommune",
+      "areaname": "Iveland",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4218",
+      "areaclass": "kommune",
+      "areaname": "Iveland",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4218",
+      "areaclass": "kommune",
+      "areaname": "Iveland",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4218",
+      "areaclass": "kommune",
+      "areaname": "Iveland",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4219",
+      "areaclass": "kommune",
+      "areaname": "Evje og Hornnes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4219",
+      "areaclass": "kommune",
+      "areaname": "Evje og Hornnes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4219",
+      "areaclass": "kommune",
+      "areaname": "Evje og Hornnes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4219",
+      "areaclass": "kommune",
+      "areaname": "Evje og Hornnes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4220",
+      "areaclass": "kommune",
+      "areaname": "Bygland",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4220",
+      "areaclass": "kommune",
+      "areaname": "Bygland",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4220",
+      "areaclass": "kommune",
+      "areaname": "Bygland",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4220",
+      "areaclass": "kommune",
+      "areaname": "Bygland",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4221",
+      "areaclass": "kommune",
+      "areaname": "Valle",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4221",
+      "areaclass": "kommune",
+      "areaname": "Valle",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4221",
+      "areaclass": "kommune",
+      "areaname": "Valle",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4221",
+      "areaclass": "kommune",
+      "areaname": "Valle",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4222",
+      "areaclass": "kommune",
+      "areaname": "Bykle",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4222",
+      "areaclass": "kommune",
+      "areaname": "Bykle",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4222",
+      "areaclass": "kommune",
+      "areaname": "Bykle",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4222",
+      "areaclass": "kommune",
+      "areaname": "Bykle",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4223",
+      "areaclass": "kommune",
+      "areaname": "Vennesla",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4223",
+      "areaclass": "kommune",
+      "areaname": "Vennesla",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4223",
+      "areaclass": "kommune",
+      "areaname": "Vennesla",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4223",
+      "areaclass": "kommune",
+      "areaname": "Vennesla",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4224",
+      "areaclass": "kommune",
+      "areaname": "\u00c5seral",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4224",
+      "areaclass": "kommune",
+      "areaname": "\u00c5seral",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4224",
+      "areaclass": "kommune",
+      "areaname": "\u00c5seral",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4224",
+      "areaclass": "kommune",
+      "areaname": "\u00c5seral",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4225",
+      "areaclass": "kommune",
+      "areaname": "Lyngdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4225",
+      "areaclass": "kommune",
+      "areaname": "Lyngdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4225",
+      "areaclass": "kommune",
+      "areaname": "Lyngdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4225",
+      "areaclass": "kommune",
+      "areaname": "Lyngdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4226",
+      "areaclass": "kommune",
+      "areaname": "H\u00e6gebostad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4226",
+      "areaclass": "kommune",
+      "areaname": "H\u00e6gebostad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4226",
+      "areaclass": "kommune",
+      "areaname": "H\u00e6gebostad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4226",
+      "areaclass": "kommune",
+      "areaname": "H\u00e6gebostad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4227",
+      "areaclass": "kommune",
+      "areaname": "Kvinesdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4227",
+      "areaclass": "kommune",
+      "areaname": "Kvinesdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4227",
+      "areaclass": "kommune",
+      "areaname": "Kvinesdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4227",
+      "areaclass": "kommune",
+      "areaname": "Kvinesdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4228",
+      "areaclass": "kommune",
+      "areaname": "Sirdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4228",
+      "areaclass": "kommune",
+      "areaname": "Sirdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4228",
+      "areaclass": "kommune",
+      "areaname": "Sirdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4228",
+      "areaclass": "kommune",
+      "areaname": "Sirdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4601",
+      "areaclass": "kommune",
+      "areaname": "Bergen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4601",
+      "areaclass": "kommune",
+      "areaname": "Bergen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4601",
+      "areaclass": "kommune",
+      "areaname": "Bergen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4601",
+      "areaclass": "kommune",
+      "areaname": "Bergen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4602",
+      "areaclass": "kommune",
+      "areaname": "Kinn",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4602",
+      "areaclass": "kommune",
+      "areaname": "Kinn",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4602",
+      "areaclass": "kommune",
+      "areaname": "Kinn",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4602",
+      "areaclass": "kommune",
+      "areaname": "Kinn",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4611",
+      "areaclass": "kommune",
+      "areaname": "Etne",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4611",
+      "areaclass": "kommune",
+      "areaname": "Etne",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4611",
+      "areaclass": "kommune",
+      "areaname": "Etne",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4611",
+      "areaclass": "kommune",
+      "areaname": "Etne",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4612",
+      "areaclass": "kommune",
+      "areaname": "Sveio",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4612",
+      "areaclass": "kommune",
+      "areaname": "Sveio",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4612",
+      "areaclass": "kommune",
+      "areaname": "Sveio",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4612",
+      "areaclass": "kommune",
+      "areaname": "Sveio",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4613",
+      "areaclass": "kommune",
+      "areaname": "B\u00f8mlo",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4613",
+      "areaclass": "kommune",
+      "areaname": "B\u00f8mlo",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4613",
+      "areaclass": "kommune",
+      "areaname": "B\u00f8mlo",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4613",
+      "areaclass": "kommune",
+      "areaname": "B\u00f8mlo",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4614",
+      "areaclass": "kommune",
+      "areaname": "Stord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4614",
+      "areaclass": "kommune",
+      "areaname": "Stord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4614",
+      "areaclass": "kommune",
+      "areaname": "Stord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4614",
+      "areaclass": "kommune",
+      "areaname": "Stord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4615",
+      "areaclass": "kommune",
+      "areaname": "Fitjar",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4615",
+      "areaclass": "kommune",
+      "areaname": "Fitjar",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4615",
+      "areaclass": "kommune",
+      "areaname": "Fitjar",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4615",
+      "areaclass": "kommune",
+      "areaname": "Fitjar",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4616",
+      "areaclass": "kommune",
+      "areaname": "Tysnes",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4616",
+      "areaclass": "kommune",
+      "areaname": "Tysnes",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4616",
+      "areaclass": "kommune",
+      "areaname": "Tysnes",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4616",
+      "areaclass": "kommune",
+      "areaname": "Tysnes",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4617",
+      "areaclass": "kommune",
+      "areaname": "Kvinnherad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4617",
+      "areaclass": "kommune",
+      "areaname": "Kvinnherad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4617",
+      "areaclass": "kommune",
+      "areaname": "Kvinnherad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4617",
+      "areaclass": "kommune",
+      "areaname": "Kvinnherad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4618",
+      "areaclass": "kommune",
+      "areaname": "Ullensvang",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4618",
+      "areaclass": "kommune",
+      "areaname": "Ullensvang",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4618",
+      "areaclass": "kommune",
+      "areaname": "Ullensvang",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4618",
+      "areaclass": "kommune",
+      "areaname": "Ullensvang",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4619",
+      "areaclass": "kommune",
+      "areaname": "Eidfjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4619",
+      "areaclass": "kommune",
+      "areaname": "Eidfjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4619",
+      "areaclass": "kommune",
+      "areaname": "Eidfjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4619",
+      "areaclass": "kommune",
+      "areaname": "Eidfjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4620",
+      "areaclass": "kommune",
+      "areaname": "Ulvik",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4620",
+      "areaclass": "kommune",
+      "areaname": "Ulvik",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4620",
+      "areaclass": "kommune",
+      "areaname": "Ulvik",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4620",
+      "areaclass": "kommune",
+      "areaname": "Ulvik",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4621",
+      "areaclass": "kommune",
+      "areaname": "Voss",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4621",
+      "areaclass": "kommune",
+      "areaname": "Voss",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4621",
+      "areaclass": "kommune",
+      "areaname": "Voss",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4621",
+      "areaclass": "kommune",
+      "areaname": "Voss",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4622",
+      "areaclass": "kommune",
+      "areaname": "Kvam",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4622",
+      "areaclass": "kommune",
+      "areaname": "Kvam",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4622",
+      "areaclass": "kommune",
+      "areaname": "Kvam",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4622",
+      "areaclass": "kommune",
+      "areaname": "Kvam",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4623",
+      "areaclass": "kommune",
+      "areaname": "Samnanger",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4623",
+      "areaclass": "kommune",
+      "areaname": "Samnanger",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4623",
+      "areaclass": "kommune",
+      "areaname": "Samnanger",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4623",
+      "areaclass": "kommune",
+      "areaname": "Samnanger",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4624",
+      "areaclass": "kommune",
+      "areaname": "Bj\u00f8rnafjorden",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4624",
+      "areaclass": "kommune",
+      "areaname": "Bj\u00f8rnafjorden",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4624",
+      "areaclass": "kommune",
+      "areaname": "Bj\u00f8rnafjorden",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4624",
+      "areaclass": "kommune",
+      "areaname": "Bj\u00f8rnafjorden",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4625",
+      "areaclass": "kommune",
+      "areaname": "Austevoll",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4625",
+      "areaclass": "kommune",
+      "areaname": "Austevoll",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4625",
+      "areaclass": "kommune",
+      "areaname": "Austevoll",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4625",
+      "areaclass": "kommune",
+      "areaname": "Austevoll",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4626",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ygarden",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4626",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ygarden",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4626",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ygarden",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4626",
+      "areaclass": "kommune",
+      "areaname": "\u00d8ygarden",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4627",
+      "areaclass": "kommune",
+      "areaname": "Ask\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4627",
+      "areaclass": "kommune",
+      "areaname": "Ask\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4627",
+      "areaclass": "kommune",
+      "areaname": "Ask\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4627",
+      "areaclass": "kommune",
+      "areaname": "Ask\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4628",
+      "areaclass": "kommune",
+      "areaname": "Vaksdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4628",
+      "areaclass": "kommune",
+      "areaname": "Vaksdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4628",
+      "areaclass": "kommune",
+      "areaname": "Vaksdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4628",
+      "areaclass": "kommune",
+      "areaname": "Vaksdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4629",
+      "areaclass": "kommune",
+      "areaname": "Modalen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4629",
+      "areaclass": "kommune",
+      "areaname": "Modalen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4629",
+      "areaclass": "kommune",
+      "areaname": "Modalen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4629",
+      "areaclass": "kommune",
+      "areaname": "Modalen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4630",
+      "areaclass": "kommune",
+      "areaname": "Oster\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4630",
+      "areaclass": "kommune",
+      "areaname": "Oster\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4630",
+      "areaclass": "kommune",
+      "areaname": "Oster\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4630",
+      "areaclass": "kommune",
+      "areaname": "Oster\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4631",
+      "areaclass": "kommune",
+      "areaname": "Alver",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4631",
+      "areaclass": "kommune",
+      "areaname": "Alver",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4631",
+      "areaclass": "kommune",
+      "areaname": "Alver",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4631",
+      "areaclass": "kommune",
+      "areaname": "Alver",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4632",
+      "areaclass": "kommune",
+      "areaname": "Austrheim",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4632",
+      "areaclass": "kommune",
+      "areaname": "Austrheim",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4632",
+      "areaclass": "kommune",
+      "areaname": "Austrheim",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4632",
+      "areaclass": "kommune",
+      "areaname": "Austrheim",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4633",
+      "areaclass": "kommune",
+      "areaname": "Fedje",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4633",
+      "areaclass": "kommune",
+      "areaname": "Fedje",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4633",
+      "areaclass": "kommune",
+      "areaname": "Fedje",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4633",
+      "areaclass": "kommune",
+      "areaname": "Fedje",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4634",
+      "areaclass": "kommune",
+      "areaname": "Masfjorden",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4634",
+      "areaclass": "kommune",
+      "areaname": "Masfjorden",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4634",
+      "areaclass": "kommune",
+      "areaname": "Masfjorden",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4634",
+      "areaclass": "kommune",
+      "areaname": "Masfjorden",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4635",
+      "areaclass": "kommune",
+      "areaname": "Gulen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4635",
+      "areaclass": "kommune",
+      "areaname": "Gulen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4635",
+      "areaclass": "kommune",
+      "areaname": "Gulen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4635",
+      "areaclass": "kommune",
+      "areaname": "Gulen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4636",
+      "areaclass": "kommune",
+      "areaname": "Solund",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4636",
+      "areaclass": "kommune",
+      "areaname": "Solund",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4636",
+      "areaclass": "kommune",
+      "areaname": "Solund",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4636",
+      "areaclass": "kommune",
+      "areaname": "Solund",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4637",
+      "areaclass": "kommune",
+      "areaname": "Hyllestad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4637",
+      "areaclass": "kommune",
+      "areaname": "Hyllestad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4637",
+      "areaclass": "kommune",
+      "areaname": "Hyllestad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4637",
+      "areaclass": "kommune",
+      "areaname": "Hyllestad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4638",
+      "areaclass": "kommune",
+      "areaname": "H\u00f8yanger",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4638",
+      "areaclass": "kommune",
+      "areaname": "H\u00f8yanger",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4638",
+      "areaclass": "kommune",
+      "areaname": "H\u00f8yanger",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4638",
+      "areaclass": "kommune",
+      "areaname": "H\u00f8yanger",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4639",
+      "areaclass": "kommune",
+      "areaname": "Vik",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4639",
+      "areaclass": "kommune",
+      "areaname": "Vik",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4639",
+      "areaclass": "kommune",
+      "areaname": "Vik",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4639",
+      "areaclass": "kommune",
+      "areaname": "Vik",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4640",
+      "areaclass": "kommune",
+      "areaname": "Sogndal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4640",
+      "areaclass": "kommune",
+      "areaname": "Sogndal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4640",
+      "areaclass": "kommune",
+      "areaname": "Sogndal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4640",
+      "areaclass": "kommune",
+      "areaname": "Sogndal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4641",
+      "areaclass": "kommune",
+      "areaname": "Aurland",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4641",
+      "areaclass": "kommune",
+      "areaname": "Aurland",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4641",
+      "areaclass": "kommune",
+      "areaname": "Aurland",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4641",
+      "areaclass": "kommune",
+      "areaname": "Aurland",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4642",
+      "areaclass": "kommune",
+      "areaname": "L\u00e6rdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4642",
+      "areaclass": "kommune",
+      "areaname": "L\u00e6rdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4642",
+      "areaclass": "kommune",
+      "areaname": "L\u00e6rdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4642",
+      "areaclass": "kommune",
+      "areaname": "L\u00e6rdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4643",
+      "areaclass": "kommune",
+      "areaname": "\u00c5rdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4643",
+      "areaclass": "kommune",
+      "areaname": "\u00c5rdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4643",
+      "areaclass": "kommune",
+      "areaname": "\u00c5rdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4643",
+      "areaclass": "kommune",
+      "areaname": "\u00c5rdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4644",
+      "areaclass": "kommune",
+      "areaname": "Luster",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4644",
+      "areaclass": "kommune",
+      "areaname": "Luster",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4644",
+      "areaclass": "kommune",
+      "areaname": "Luster",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4644",
+      "areaclass": "kommune",
+      "areaname": "Luster",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4645",
+      "areaclass": "kommune",
+      "areaname": "Askvoll",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4645",
+      "areaclass": "kommune",
+      "areaname": "Askvoll",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4645",
+      "areaclass": "kommune",
+      "areaname": "Askvoll",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4645",
+      "areaclass": "kommune",
+      "areaname": "Askvoll",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4646",
+      "areaclass": "kommune",
+      "areaname": "Fjaler",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4646",
+      "areaclass": "kommune",
+      "areaname": "Fjaler",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4646",
+      "areaclass": "kommune",
+      "areaname": "Fjaler",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4646",
+      "areaclass": "kommune",
+      "areaname": "Fjaler",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4647",
+      "areaclass": "kommune",
+      "areaname": "Sunnfjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4647",
+      "areaclass": "kommune",
+      "areaname": "Sunnfjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4647",
+      "areaclass": "kommune",
+      "areaname": "Sunnfjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4647",
+      "areaclass": "kommune",
+      "areaname": "Sunnfjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4648",
+      "areaclass": "kommune",
+      "areaname": "Bremanger",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4648",
+      "areaclass": "kommune",
+      "areaname": "Bremanger",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4648",
+      "areaclass": "kommune",
+      "areaname": "Bremanger",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4648",
+      "areaclass": "kommune",
+      "areaname": "Bremanger",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4649",
+      "areaclass": "kommune",
+      "areaname": "Stad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4649",
+      "areaclass": "kommune",
+      "areaname": "Stad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4649",
+      "areaclass": "kommune",
+      "areaname": "Stad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4649",
+      "areaclass": "kommune",
+      "areaname": "Stad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4650",
+      "areaclass": "kommune",
+      "areaname": "Gloppen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4650",
+      "areaclass": "kommune",
+      "areaname": "Gloppen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4650",
+      "areaclass": "kommune",
+      "areaname": "Gloppen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4650",
+      "areaclass": "kommune",
+      "areaname": "Gloppen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "4651",
+      "areaclass": "kommune",
+      "areaname": "Stryn",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "4651",
+      "areaclass": "kommune",
+      "areaname": "Stryn",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "4651",
+      "areaclass": "kommune",
+      "areaname": "Stryn",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "4651",
+      "areaclass": "kommune",
+      "areaname": "Stryn",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5001",
+      "areaclass": "kommune",
+      "areaname": "Trondheim",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5001",
+      "areaclass": "kommune",
+      "areaname": "Trondheim",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5001",
+      "areaclass": "kommune",
+      "areaname": "Trondheim",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5001",
+      "areaclass": "kommune",
+      "areaname": "Trondheim",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5006",
+      "areaclass": "kommune",
+      "areaname": "Steinkjer",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5006",
+      "areaclass": "kommune",
+      "areaname": "Steinkjer",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5006",
+      "areaclass": "kommune",
+      "areaname": "Steinkjer",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5006",
+      "areaclass": "kommune",
+      "areaname": "Steinkjer",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5007",
+      "areaclass": "kommune",
+      "areaname": "Namsos",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5007",
+      "areaclass": "kommune",
+      "areaname": "Namsos",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5007",
+      "areaclass": "kommune",
+      "areaname": "Namsos",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5007",
+      "areaclass": "kommune",
+      "areaname": "Namsos",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5014",
+      "areaclass": "kommune",
+      "areaname": "Fr\u00f8ya",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5014",
+      "areaclass": "kommune",
+      "areaname": "Fr\u00f8ya",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5014",
+      "areaclass": "kommune",
+      "areaname": "Fr\u00f8ya",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5014",
+      "areaclass": "kommune",
+      "areaname": "Fr\u00f8ya",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5020",
+      "areaclass": "kommune",
+      "areaname": "Osen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5020",
+      "areaclass": "kommune",
+      "areaname": "Osen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5020",
+      "areaclass": "kommune",
+      "areaname": "Osen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5020",
+      "areaclass": "kommune",
+      "areaname": "Osen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5021",
+      "areaclass": "kommune",
+      "areaname": "Oppdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5021",
+      "areaclass": "kommune",
+      "areaname": "Oppdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5021",
+      "areaclass": "kommune",
+      "areaname": "Oppdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5021",
+      "areaclass": "kommune",
+      "areaname": "Oppdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5022",
+      "areaclass": "kommune",
+      "areaname": "Rennebu",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5022",
+      "areaclass": "kommune",
+      "areaname": "Rennebu",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5022",
+      "areaclass": "kommune",
+      "areaname": "Rennebu",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5022",
+      "areaclass": "kommune",
+      "areaname": "Rennebu",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5025",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8ros",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5025",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8ros",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5025",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8ros",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5025",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8ros",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5026",
+      "areaclass": "kommune",
+      "areaname": "Holt\u00e5len",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5026",
+      "areaclass": "kommune",
+      "areaname": "Holt\u00e5len",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5026",
+      "areaclass": "kommune",
+      "areaname": "Holt\u00e5len",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5026",
+      "areaclass": "kommune",
+      "areaname": "Holt\u00e5len",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5027",
+      "areaclass": "kommune",
+      "areaname": "Midtre Gauldal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5027",
+      "areaclass": "kommune",
+      "areaname": "Midtre Gauldal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5027",
+      "areaclass": "kommune",
+      "areaname": "Midtre Gauldal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5027",
+      "areaclass": "kommune",
+      "areaname": "Midtre Gauldal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5028",
+      "areaclass": "kommune",
+      "areaname": "Melhus",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5028",
+      "areaclass": "kommune",
+      "areaname": "Melhus",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5028",
+      "areaclass": "kommune",
+      "areaname": "Melhus",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5028",
+      "areaclass": "kommune",
+      "areaname": "Melhus",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5029",
+      "areaclass": "kommune",
+      "areaname": "Skaun",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5029",
+      "areaclass": "kommune",
+      "areaname": "Skaun",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5029",
+      "areaclass": "kommune",
+      "areaname": "Skaun",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5029",
+      "areaclass": "kommune",
+      "areaname": "Skaun",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5031",
+      "areaclass": "kommune",
+      "areaname": "Malvik",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5031",
+      "areaclass": "kommune",
+      "areaname": "Malvik",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5031",
+      "areaclass": "kommune",
+      "areaname": "Malvik",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5031",
+      "areaclass": "kommune",
+      "areaname": "Malvik",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5032",
+      "areaclass": "kommune",
+      "areaname": "Selbu",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5032",
+      "areaclass": "kommune",
+      "areaname": "Selbu",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5032",
+      "areaclass": "kommune",
+      "areaname": "Selbu",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5032",
+      "areaclass": "kommune",
+      "areaname": "Selbu",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5033",
+      "areaclass": "kommune",
+      "areaname": "Tydal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5033",
+      "areaclass": "kommune",
+      "areaname": "Tydal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5033",
+      "areaclass": "kommune",
+      "areaname": "Tydal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5033",
+      "areaclass": "kommune",
+      "areaname": "Tydal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5034",
+      "areaclass": "kommune",
+      "areaname": "Mer\u00e5ker",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5034",
+      "areaclass": "kommune",
+      "areaname": "Mer\u00e5ker",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5034",
+      "areaclass": "kommune",
+      "areaname": "Mer\u00e5ker",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5034",
+      "areaclass": "kommune",
+      "areaname": "Mer\u00e5ker",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5035",
+      "areaclass": "kommune",
+      "areaname": "Stj\u00f8rdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5035",
+      "areaclass": "kommune",
+      "areaname": "Stj\u00f8rdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5035",
+      "areaclass": "kommune",
+      "areaname": "Stj\u00f8rdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5035",
+      "areaclass": "kommune",
+      "areaname": "Stj\u00f8rdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5036",
+      "areaclass": "kommune",
+      "areaname": "Frosta",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5036",
+      "areaclass": "kommune",
+      "areaname": "Frosta",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5036",
+      "areaclass": "kommune",
+      "areaname": "Frosta",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5036",
+      "areaclass": "kommune",
+      "areaname": "Frosta",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5037",
+      "areaclass": "kommune",
+      "areaname": "Levanger",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5037",
+      "areaclass": "kommune",
+      "areaname": "Levanger",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5037",
+      "areaclass": "kommune",
+      "areaname": "Levanger",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5037",
+      "areaclass": "kommune",
+      "areaname": "Levanger",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5038",
+      "areaclass": "kommune",
+      "areaname": "Verdal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5038",
+      "areaclass": "kommune",
+      "areaname": "Verdal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5038",
+      "areaclass": "kommune",
+      "areaname": "Verdal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5038",
+      "areaclass": "kommune",
+      "areaname": "Verdal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5041",
+      "areaclass": "kommune",
+      "areaname": "Sn\u00e5sa,Sn\u00e5ase",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5041",
+      "areaclass": "kommune",
+      "areaname": "Sn\u00e5sa,Sn\u00e5ase",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5041",
+      "areaclass": "kommune",
+      "areaname": "Sn\u00e5sa,Sn\u00e5ase",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5041",
+      "areaclass": "kommune",
+      "areaname": "Sn\u00e5sa,Sn\u00e5ase",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5042",
+      "areaclass": "kommune",
+      "areaname": "Lierne",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5042",
+      "areaclass": "kommune",
+      "areaname": "Lierne",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5042",
+      "areaclass": "kommune",
+      "areaname": "Lierne",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5042",
+      "areaclass": "kommune",
+      "areaname": "Lierne",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5043",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8yrvik,Raarvihke",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5043",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8yrvik,Raarvihke",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5043",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8yrvik,Raarvihke",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5043",
+      "areaclass": "kommune",
+      "areaname": "R\u00f8yrvik,Raarvihke",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5044",
+      "areaclass": "kommune",
+      "areaname": "Namsskogan",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5044",
+      "areaclass": "kommune",
+      "areaname": "Namsskogan",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5044",
+      "areaclass": "kommune",
+      "areaname": "Namsskogan",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5044",
+      "areaclass": "kommune",
+      "areaname": "Namsskogan",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5045",
+      "areaclass": "kommune",
+      "areaname": "Grong",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5045",
+      "areaclass": "kommune",
+      "areaname": "Grong",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5045",
+      "areaclass": "kommune",
+      "areaname": "Grong",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5045",
+      "areaclass": "kommune",
+      "areaname": "Grong",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5046",
+      "areaclass": "kommune",
+      "areaname": "H\u00f8ylandet",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5046",
+      "areaclass": "kommune",
+      "areaname": "H\u00f8ylandet",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5046",
+      "areaclass": "kommune",
+      "areaname": "H\u00f8ylandet",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5046",
+      "areaclass": "kommune",
+      "areaname": "H\u00f8ylandet",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5047",
+      "areaclass": "kommune",
+      "areaname": "Overhalla",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5047",
+      "areaclass": "kommune",
+      "areaname": "Overhalla",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5047",
+      "areaclass": "kommune",
+      "areaname": "Overhalla",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5047",
+      "areaclass": "kommune",
+      "areaname": "Overhalla",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5049",
+      "areaclass": "kommune",
+      "areaname": "Flatanger",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5049",
+      "areaclass": "kommune",
+      "areaname": "Flatanger",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5049",
+      "areaclass": "kommune",
+      "areaname": "Flatanger",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5049",
+      "areaclass": "kommune",
+      "areaname": "Flatanger",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5052",
+      "areaclass": "kommune",
+      "areaname": "Leka",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5052",
+      "areaclass": "kommune",
+      "areaname": "Leka",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5052",
+      "areaclass": "kommune",
+      "areaname": "Leka",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5052",
+      "areaclass": "kommune",
+      "areaname": "Leka",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5053",
+      "areaclass": "kommune",
+      "areaname": "Inder\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5053",
+      "areaclass": "kommune",
+      "areaname": "Inder\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5053",
+      "areaclass": "kommune",
+      "areaname": "Inder\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5053",
+      "areaclass": "kommune",
+      "areaname": "Inder\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5054",
+      "areaclass": "kommune",
+      "areaname": "Indre Fosen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5054",
+      "areaclass": "kommune",
+      "areaname": "Indre Fosen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5054",
+      "areaclass": "kommune",
+      "areaname": "Indre Fosen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5054",
+      "areaclass": "kommune",
+      "areaname": "Indre Fosen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5055",
+      "areaclass": "kommune",
+      "areaname": "Heim",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5055",
+      "areaclass": "kommune",
+      "areaname": "Heim",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5055",
+      "areaclass": "kommune",
+      "areaname": "Heim",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5055",
+      "areaclass": "kommune",
+      "areaname": "Heim",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5056",
+      "areaclass": "kommune",
+      "areaname": "Hitra",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5056",
+      "areaclass": "kommune",
+      "areaname": "Hitra",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5056",
+      "areaclass": "kommune",
+      "areaname": "Hitra",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5056",
+      "areaclass": "kommune",
+      "areaname": "Hitra",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5057",
+      "areaclass": "kommune",
+      "areaname": "\u00d8rland",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5057",
+      "areaclass": "kommune",
+      "areaname": "\u00d8rland",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5057",
+      "areaclass": "kommune",
+      "areaname": "\u00d8rland",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5057",
+      "areaclass": "kommune",
+      "areaname": "\u00d8rland",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5058",
+      "areaclass": "kommune",
+      "areaname": "\u00c5fjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5058",
+      "areaclass": "kommune",
+      "areaname": "\u00c5fjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5058",
+      "areaclass": "kommune",
+      "areaname": "\u00c5fjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5058",
+      "areaclass": "kommune",
+      "areaname": "\u00c5fjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5059",
+      "areaclass": "kommune",
+      "areaname": "Orkland",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5059",
+      "areaclass": "kommune",
+      "areaname": "Orkland",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5059",
+      "areaclass": "kommune",
+      "areaname": "Orkland",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5059",
+      "areaclass": "kommune",
+      "areaname": "Orkland",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5060",
+      "areaclass": "kommune",
+      "areaname": "N\u00e6r\u00f8ysund",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5060",
+      "areaclass": "kommune",
+      "areaname": "N\u00e6r\u00f8ysund",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5060",
+      "areaclass": "kommune",
+      "areaname": "N\u00e6r\u00f8ysund",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5060",
+      "areaclass": "kommune",
+      "areaname": "N\u00e6r\u00f8ysund",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5061",
+      "areaclass": "kommune",
+      "areaname": "Rindal",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5061",
+      "areaclass": "kommune",
+      "areaname": "Rindal",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5061",
+      "areaclass": "kommune",
+      "areaname": "Rindal",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5061",
+      "areaclass": "kommune",
+      "areaname": "Rindal",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5401",
+      "areaclass": "kommune",
+      "areaname": "Troms\u00f8",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5401",
+      "areaclass": "kommune",
+      "areaname": "Troms\u00f8",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5401",
+      "areaclass": "kommune",
+      "areaname": "Troms\u00f8",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5401",
+      "areaclass": "kommune",
+      "areaname": "Troms\u00f8",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5402",
+      "areaclass": "kommune",
+      "areaname": "Harstad,H\u00e1rstt\u00e1k",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5402",
+      "areaclass": "kommune",
+      "areaname": "Harstad,H\u00e1rstt\u00e1k",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5402",
+      "areaclass": "kommune",
+      "areaname": "Harstad,H\u00e1rstt\u00e1k",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5402",
+      "areaclass": "kommune",
+      "areaname": "Harstad,H\u00e1rstt\u00e1k",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5403",
+      "areaclass": "kommune",
+      "areaname": "Alta",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5403",
+      "areaclass": "kommune",
+      "areaname": "Alta",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5403",
+      "areaclass": "kommune",
+      "areaname": "Alta",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5403",
+      "areaclass": "kommune",
+      "areaname": "Alta",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5404",
+      "areaclass": "kommune",
+      "areaname": "Vard\u00f8",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5404",
+      "areaclass": "kommune",
+      "areaname": "Vard\u00f8",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5404",
+      "areaclass": "kommune",
+      "areaname": "Vard\u00f8",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5404",
+      "areaclass": "kommune",
+      "areaname": "Vard\u00f8",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5405",
+      "areaclass": "kommune",
+      "areaname": "Vads\u00f8",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5405",
+      "areaclass": "kommune",
+      "areaname": "Vads\u00f8",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5405",
+      "areaclass": "kommune",
+      "areaname": "Vads\u00f8",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5405",
+      "areaclass": "kommune",
+      "areaname": "Vads\u00f8",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5406",
+      "areaclass": "kommune",
+      "areaname": "Hammerfest",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5406",
+      "areaclass": "kommune",
+      "areaname": "Hammerfest",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5406",
+      "areaclass": "kommune",
+      "areaname": "Hammerfest",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5406",
+      "areaclass": "kommune",
+      "areaname": "Hammerfest",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5411",
+      "areaclass": "kommune",
+      "areaname": "Kv\u00e6fjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5411",
+      "areaclass": "kommune",
+      "areaname": "Kv\u00e6fjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5411",
+      "areaclass": "kommune",
+      "areaname": "Kv\u00e6fjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5411",
+      "areaclass": "kommune",
+      "areaname": "Kv\u00e6fjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5412",
+      "areaclass": "kommune",
+      "areaname": "Tjeldsund",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5412",
+      "areaclass": "kommune",
+      "areaname": "Tjeldsund",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5412",
+      "areaclass": "kommune",
+      "areaname": "Tjeldsund",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5412",
+      "areaclass": "kommune",
+      "areaname": "Tjeldsund",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5413",
+      "areaclass": "kommune",
+      "areaname": "Ibestad",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5413",
+      "areaclass": "kommune",
+      "areaname": "Ibestad",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5413",
+      "areaclass": "kommune",
+      "areaname": "Ibestad",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5413",
+      "areaclass": "kommune",
+      "areaname": "Ibestad",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5414",
+      "areaclass": "kommune",
+      "areaname": "Gratangen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5414",
+      "areaclass": "kommune",
+      "areaname": "Gratangen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5414",
+      "areaclass": "kommune",
+      "areaname": "Gratangen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5414",
+      "areaclass": "kommune",
+      "areaname": "Gratangen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5415",
+      "areaclass": "kommune",
+      "areaname": "Lavangen,Loab\u00e1k",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5415",
+      "areaclass": "kommune",
+      "areaname": "Lavangen,Loab\u00e1k",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5415",
+      "areaclass": "kommune",
+      "areaname": "Lavangen,Loab\u00e1k",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5415",
+      "areaclass": "kommune",
+      "areaname": "Lavangen,Loab\u00e1k",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5416",
+      "areaclass": "kommune",
+      "areaname": "Bardu",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5416",
+      "areaclass": "kommune",
+      "areaname": "Bardu",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5416",
+      "areaclass": "kommune",
+      "areaname": "Bardu",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5416",
+      "areaclass": "kommune",
+      "areaname": "Bardu",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5417",
+      "areaclass": "kommune",
+      "areaname": "Salangen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5417",
+      "areaclass": "kommune",
+      "areaname": "Salangen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5417",
+      "areaclass": "kommune",
+      "areaname": "Salangen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5417",
+      "areaclass": "kommune",
+      "areaname": "Salangen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5418",
+      "areaclass": "kommune",
+      "areaname": "M\u00e5lselv",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5418",
+      "areaclass": "kommune",
+      "areaname": "M\u00e5lselv",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5418",
+      "areaclass": "kommune",
+      "areaname": "M\u00e5lselv",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5418",
+      "areaclass": "kommune",
+      "areaname": "M\u00e5lselv",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5419",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8rreisa",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5419",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8rreisa",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5419",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8rreisa",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5419",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8rreisa",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5420",
+      "areaclass": "kommune",
+      "areaname": "Dyr\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5420",
+      "areaclass": "kommune",
+      "areaname": "Dyr\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5420",
+      "areaclass": "kommune",
+      "areaname": "Dyr\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5420",
+      "areaclass": "kommune",
+      "areaname": "Dyr\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5421",
+      "areaclass": "kommune",
+      "areaname": "Senja",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5421",
+      "areaclass": "kommune",
+      "areaname": "Senja",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5421",
+      "areaclass": "kommune",
+      "areaname": "Senja",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5421",
+      "areaclass": "kommune",
+      "areaname": "Senja",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5422",
+      "areaclass": "kommune",
+      "areaname": "Balsfjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5422",
+      "areaclass": "kommune",
+      "areaname": "Balsfjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5422",
+      "areaclass": "kommune",
+      "areaname": "Balsfjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5422",
+      "areaclass": "kommune",
+      "areaname": "Balsfjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5423",
+      "areaclass": "kommune",
+      "areaname": "Karls\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5423",
+      "areaclass": "kommune",
+      "areaname": "Karls\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5423",
+      "areaclass": "kommune",
+      "areaname": "Karls\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5423",
+      "areaclass": "kommune",
+      "areaname": "Karls\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5424",
+      "areaclass": "kommune",
+      "areaname": "Lyngen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5424",
+      "areaclass": "kommune",
+      "areaname": "Lyngen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5424",
+      "areaclass": "kommune",
+      "areaname": "Lyngen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5424",
+      "areaclass": "kommune",
+      "areaname": "Lyngen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5425",
+      "areaclass": "kommune",
+      "areaname": "Storfjord,Omasvuono,Omasvuotna",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5425",
+      "areaclass": "kommune",
+      "areaname": "Storfjord,Omasvuono,Omasvuotna",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5425",
+      "areaclass": "kommune",
+      "areaname": "Storfjord,Omasvuono,Omasvuotna",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5425",
+      "areaclass": "kommune",
+      "areaname": "Storfjord,Omasvuono,Omasvuotna",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5426",
+      "areaclass": "kommune",
+      "areaname": "G\u00e1ivuotna,Kaivuono,K\u00e5fjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5426",
+      "areaclass": "kommune",
+      "areaname": "G\u00e1ivuotna,Kaivuono,K\u00e5fjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5426",
+      "areaclass": "kommune",
+      "areaname": "G\u00e1ivuotna,Kaivuono,K\u00e5fjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5426",
+      "areaclass": "kommune",
+      "areaname": "G\u00e1ivuotna,Kaivuono,K\u00e5fjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5427",
+      "areaclass": "kommune",
+      "areaname": "Skjerv\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5427",
+      "areaclass": "kommune",
+      "areaname": "Skjerv\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5427",
+      "areaclass": "kommune",
+      "areaname": "Skjerv\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5427",
+      "areaclass": "kommune",
+      "areaname": "Skjerv\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5428",
+      "areaclass": "kommune",
+      "areaname": "Nordreisa,Raisi,R\u00e1isa",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5428",
+      "areaclass": "kommune",
+      "areaname": "Nordreisa,Raisi,R\u00e1isa",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5428",
+      "areaclass": "kommune",
+      "areaname": "Nordreisa,Raisi,R\u00e1isa",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5428",
+      "areaclass": "kommune",
+      "areaname": "Nordreisa,Raisi,R\u00e1isa",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5429",
+      "areaclass": "kommune",
+      "areaname": "Kv\u00e6nangen",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5429",
+      "areaclass": "kommune",
+      "areaname": "Kv\u00e6nangen",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5429",
+      "areaclass": "kommune",
+      "areaname": "Kv\u00e6nangen",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5429",
+      "areaclass": "kommune",
+      "areaname": "Kv\u00e6nangen",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5430",
+      "areaclass": "kommune",
+      "areaname": "Kautokeino,Guovdageaidnu",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5430",
+      "areaclass": "kommune",
+      "areaname": "Kautokeino,Guovdageaidnu",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5430",
+      "areaclass": "kommune",
+      "areaname": "Kautokeino,Guovdageaidnu",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5430",
+      "areaclass": "kommune",
+      "areaname": "Kautokeino,Guovdageaidnu",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5432",
+      "areaclass": "kommune",
+      "areaname": "Loppa",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5432",
+      "areaclass": "kommune",
+      "areaname": "Loppa",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5432",
+      "areaclass": "kommune",
+      "areaname": "Loppa",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5432",
+      "areaclass": "kommune",
+      "areaname": "Loppa",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5433",
+      "areaclass": "kommune",
+      "areaname": "Hasvik",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5433",
+      "areaclass": "kommune",
+      "areaname": "Hasvik",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5433",
+      "areaclass": "kommune",
+      "areaname": "Hasvik",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5433",
+      "areaclass": "kommune",
+      "areaname": "Hasvik",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5434",
+      "areaclass": "kommune",
+      "areaname": "M\u00e5s\u00f8y",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5434",
+      "areaclass": "kommune",
+      "areaname": "M\u00e5s\u00f8y",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5434",
+      "areaclass": "kommune",
+      "areaname": "M\u00e5s\u00f8y",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5434",
+      "areaclass": "kommune",
+      "areaname": "M\u00e5s\u00f8y",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5435",
+      "areaclass": "kommune",
+      "areaname": "Nordkapp",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5435",
+      "areaclass": "kommune",
+      "areaname": "Nordkapp",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5435",
+      "areaclass": "kommune",
+      "areaname": "Nordkapp",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5435",
+      "areaclass": "kommune",
+      "areaname": "Nordkapp",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5436",
+      "areaclass": "kommune",
+      "areaname": "Porsanger,Porsanki,Pors\u00e1\u014bgu",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5436",
+      "areaclass": "kommune",
+      "areaname": "Porsanger,Porsanki,Pors\u00e1\u014bgu",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5436",
+      "areaclass": "kommune",
+      "areaname": "Porsanger,Porsanki,Pors\u00e1\u014bgu",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5436",
+      "areaclass": "kommune",
+      "areaname": "Porsanger,Porsanki,Pors\u00e1\u014bgu",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5437",
+      "areaclass": "kommune",
+      "areaname": "Karasjok,K\u00e1r\u00e1\u0161johka",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5437",
+      "areaclass": "kommune",
+      "areaname": "Karasjok,K\u00e1r\u00e1\u0161johka",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5437",
+      "areaclass": "kommune",
+      "areaname": "Karasjok,K\u00e1r\u00e1\u0161johka",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5437",
+      "areaclass": "kommune",
+      "areaname": "Karasjok,K\u00e1r\u00e1\u0161johka",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5438",
+      "areaclass": "kommune",
+      "areaname": "Lebesby",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5438",
+      "areaclass": "kommune",
+      "areaname": "Lebesby",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5438",
+      "areaclass": "kommune",
+      "areaname": "Lebesby",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5438",
+      "areaclass": "kommune",
+      "areaname": "Lebesby",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5439",
+      "areaclass": "kommune",
+      "areaname": "Gamvik",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5439",
+      "areaclass": "kommune",
+      "areaname": "Gamvik",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5439",
+      "areaclass": "kommune",
+      "areaname": "Gamvik",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5439",
+      "areaclass": "kommune",
+      "areaname": "Gamvik",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5440",
+      "areaclass": "kommune",
+      "areaname": "Berlev\u00e5g",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5440",
+      "areaclass": "kommune",
+      "areaname": "Berlev\u00e5g",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5440",
+      "areaclass": "kommune",
+      "areaname": "Berlev\u00e5g",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5440",
+      "areaclass": "kommune",
+      "areaname": "Berlev\u00e5g",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5441",
+      "areaclass": "kommune",
+      "areaname": "Tana,Deatnu",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5441",
+      "areaclass": "kommune",
+      "areaname": "Tana,Deatnu",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5441",
+      "areaclass": "kommune",
+      "areaname": "Tana,Deatnu",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5441",
+      "areaclass": "kommune",
+      "areaname": "Tana,Deatnu",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5442",
+      "areaclass": "kommune",
+      "areaname": "Nesseby,Unj\u00e1rga",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5442",
+      "areaclass": "kommune",
+      "areaname": "Nesseby,Unj\u00e1rga",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5442",
+      "areaclass": "kommune",
+      "areaname": "Nesseby,Unj\u00e1rga",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5442",
+      "areaclass": "kommune",
+      "areaname": "Nesseby,Unj\u00e1rga",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5443",
+      "areaclass": "kommune",
+      "areaname": "B\u00e5tsfjord",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5443",
+      "areaclass": "kommune",
+      "areaname": "B\u00e5tsfjord",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5443",
+      "areaclass": "kommune",
+      "areaname": "B\u00e5tsfjord",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5443",
+      "areaclass": "kommune",
+      "areaname": "B\u00e5tsfjord",
+      "timelabel": "2018"
+    },
+    {
+      "areacode": "5444",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Varanger",
+      "timelabel": "2016"
+    },
+    {
+      "areacode": "5444",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Varanger",
+      "timelabel": "2017"
+    },
+    {
+      "areacode": "5444",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Varanger",
+      "timelabel": "2016-2018"
+    },
+    {
+      "areacode": "5444",
+      "areaclass": "kommune",
+      "areaname": "S\u00f8r-Varanger",
+      "timelabel": "2018"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@android:color/transparent"
+    app:cardCornerRadius="0dp"
+    app:cardElevation="0dp"
+    app:cardMaxElevation="0dp"
+    android:backgroundTint="@null">
+
+    <LinearLayout
+        android:id="@+id/cardview_home_ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:elevation="5dp"
+        android:orientation="horizontal"
+        android:background="@drawable/home_button_background">
+
+        <TextView
+            android:id="@+id/cardview_home_name"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_margin="15dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorText"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="@string/explore"
+            android:cropToPadding="false"
+            android:rotation="180"
+            app:srcCompat="@drawable/quantum_ic_arrow_back_grey600_24" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

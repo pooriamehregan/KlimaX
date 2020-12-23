@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/map_type_item_layout"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:padding="10dp"
+android:background="@color/colorChooseMap">
+    <TextView
+        android:id="@+id/map_title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorText" />
+    <TextView
+        android:id="@+id/map_description_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:textSize="12sp"
+        android:gravity="center_vertical"
+        android:textColor="@color/colorText" />
+
+    <TextView
+        android:id="@+id/map_full_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:textSize="18sp"
+        android:visibility="gone" />
+</LinearLayout>

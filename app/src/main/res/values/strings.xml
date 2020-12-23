@@ -1,0 +1,243 @@
+<resources>
+    <!-- general app info -->
+    <string name="app_name" translatable="false">KlimaX</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">AirBoyz Monitoring</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="permission_denied">Permission was denied!</string>
+
+    <!-- Home fragment Strings -->
+    <string name="menu_home">Home</string>
+    <string name="my_position">My position</string>
+    <string name="not_available">Not available</string>
+    <string name="gps_not_enabled">GPS not enabled</string>
+    <!-- Map fragment Strings -->
+    <string name="menu_map">Map</string>
+    <string name="county_municipality">County / municipality / zip code</string>
+    <string name="address_search_text">Search for address</string>
+    <string name="more">More</string>
+    <string name="forecast">Forecast</string>
+    <string name="sources">Sources</string>
+    <string name="back">Back</string>
+    <string name="unit_concentration" translatable="false">ug/m3</string>
+    <string name="show_o3">Show O3</string>
+    <string name="airquality_forecast">Airquality forecast</string>
+    <string name="transparency">Transparency</string>
+    <string name="mapType">Type of Map</string>
+    <string name="add_to_my_places">Add to My Places</string>
+    <string name="my_places">My Places</string>
+    <string name="basic_statistical_unit">Basic statistical unit</string>
+    <string name="sub_area">Sub-area</string>
+    <string name="municipality">Municipality</string>
+
+    <string name="fraction_heating">Heating</string>
+    <string name="fraction_industry">Industry</string>
+    <string name="fraction_shipping" translatable="false">Shipping</string>
+    <string name="fraction_traffic_exhaust">Exhaust</string>
+    <string name="fraction_traffic_nonexhaust">Road dust</string>
+    <string name="fraction_nonlocal">Transport</string>
+    <string name="fraction_nonlocal_seasalt">Sea salt</string>
+    <string name="concentration">Concentration</string>
+
+
+    <!-- Settings fragment Strings -->
+    <string name="settings">Settings</string>
+    <string name="saved_mode_key" translatable="false">saved_mode_key</string>
+    <string name="saved_default_key" translatable="false">Empty</string>
+    <string name="saved_default_map_type_key" translatable="false">saved_default_map_type_key</string>
+    <string name="dark_mode">Enable/Disable dark mode</string>
+    <string name="change_mapType">Change Map Type</string>
+    <string name="theme_obs">Properly close the app and then re-open to see changes to theme!</string>
+    <string name="language">Change language in your phone\'s settings</string>
+    <string name="dm">Turn on dark mode</string>
+
+    <string name="air_zone_map">Air Zone Map</string>
+    <string name="no2_concentration_annual_mean">NO2 Concentration</string>
+    <string name="pm10_concentration_annual_mean">PM10 Concentration</string>
+    <string name="pm25_concentration_annual_mean">PM25 Concentration</string>
+
+
+
+    <!-- Info fragment Strings -->
+    <string name="menu_info">Information</string>
+    <string name="faq" translatable="false">F.A.Q.</string>
+    <string name="head_desc">
+        <![CDATA[What functions will you find in this app?]]> </string>
+    <string name="info_desc"><![CDATA[This app was created to give a quick, user friendly and accurate overview of how the air quality is around you. With people with allergies, asthma and sensitivity to air pollution in mind, the app is created to help people get to know the environment surrounding them to make good choices for living a healthy life.
+<br><br>
+This is the<b> Information page</b>. Here we will help you understand how the app works, enlighten you about what air quality and air pollution really is, and explain why we think it\'s important to care about. <br>
+Tap the arrow to the right of the question you have in mind to unlock more information.
+<br><br>
+On the<b> Home page </b> you got quick and easy access to the places that are most important to you. Tap on one of your saved locations to get an overview of the air quality at that location.
+<br><br>
+In the app you will find an <b> Interactive Map </b> that offers updated information about the air quality around you or any other location. Please note that we only show data within the boarders of Norway. <br>
+We have several different <b> map types </b> that show different data. <b> The air zone map </b> shows a combination of PM10 and NO2 concentration in comparison with the health damage they cause. The remaining map types show the specific concentration of the various particle types. These maps show <b> annual mean, </b> which is a measurement of the annual average. For PM10 and NO2 the map shows a measurement of how much and how often the value has exceeded the threshold defined by the Public Health Institute at a given area.
+Tap the question <i>  What do we mean by air pollution? </i> to see information about the different air particles.
+<br><br>
+There are three divisions of areas that you can access the data to. These are the official divisions defined by Statistics Norway: basic statistical unit, sub-areas and municipalities. <b>Basic statistical units</b> are small, stable and geographical units that give a flexible base to work with and present regional statistics. They consist of a geographical connected area, and they are as uniform as possible when it comes to nature and sustenance, municipality conditions and infrastructure. <b>Sub-area</b> is a compromise between basic statistical unit and municipality. This area-division is suitable for data that gets too detailed at basic statistical unit-level. In sub-areas it is emphasized that the area is naturally composed in terms of communication and the area is preferably a natural unit.]]>
+    </string>
+
+    <string name="head_what">
+        What do we mean by air pollution?
+    </string>
+    <string name="info_what">
+        <![CDATA[<br>Air pollution is foreign matter in the air which has a negative effect on people\'s health or well-being, or is a danger to the climate, animals, plants, materials or to the surrounding. Substances which might be contribute to air pollution might be gasses or particles which is made up of different chemical connections.
+        <br><br>
+        Airborne dust, or particulate matter (PM), are small, airborne particles that vary in size and composition. The most important composition-sizes are (expressed in micrometers):
+        <br>
+        PM0,1 (ultrafine particle fraction)<br>
+        PM2,5 (fine particle fraction)<br>
+        PM10 (coarse particle fraction)<br>
+        The largest particles are deposited in the upper airways. Smaller particles, with a diameter of less than 2.5µm, can follow the air we breathe in and down into the lungs.
+        <br><br>
+        Particulate matter consists of a mixture of many different compounds, and can be formed by combustion reactions and mechanical wear, swirled by wind, or formed directly in the atmosphere by the condensation of gases. Combustion particles predominate in fine and ultrafine fraction, while mechanically generated particles most often dominate in the coarse fraction.
+        <br>
+        The main sources of particulate matter (PM10 and PM2.5) are road traffic, firewood and long-range pollution.
+        <br><br>
+        Nitrogen monoxide (NO) and nitrogen dioxide (NO29 are reactive gases that form at high temperatures in combustion processes, and these are commonly referred to as NOx. In the presence of ozone, NO is converted to NO2.
+        <br>In several norwegian cities, the level of NO2 is higher than permitted threshold. Transgressions are most common in the big cities, while NO2-concentration rarely is an issue in smaller villages.
+        The effects of long-term exposure of NO2 has been researched in population studies. Several studies show a connection between asthma, bronchitis, lung function and mortality.
+        The most important source of NO2 and NO is exhaust from road traffic. Some places, even industry or shipping can be a relevant source. In the big cities, diesel-powered vehicles is the biggest cause of NO2-emission.
+        <br><br>
+        Ozone is a reactive gas, existing both near ground-level and in the stratosphere. It is ground-level ozone we refer to, which is also the type that can lead to health issues.
+        Ozone is created by reactions between NOx, volatile organic compounds (VOC) and sun ray. Concentration of ozone in Norway is mainly caused by long-range exposure from the continent. Ground-level ozone can be an environment issue by damaging vegetation, materials and people\'s health.
+        <br><br>
+        Sulfur dioxide (SO2) is a colorless gas that is easily soluble in water. The dominant human-made emission source is sulfur-containing fossil fuels such as coal and heavy oil. Air pollution of SO2 is mainly a problem in a few norwegian cities where industry causes local emission.]]>
+    </string>
+
+    <string name="head_why">
+        Why do we measure air quality?
+    </string>
+    <string name="info_why">
+        <![CDATA[<br>
+        More than 90 % of the world\'s population lives in areas with harmful levels of air pollution. The urbanization that brings together people in big cities with a lot of traffic and industry is crucial to this development. Air pollution is estimated to cause around 6.5 million deaths annually worldwide; outdoor air pollution contributes to 4.5 million, while indoor air pollution contributes in excess of 2 million of these.
+        <br><br>
+        As much as 60 % of this burden is due to cardiovascular disease (heart attack and stroke), while the remaining 40 % mainly is due to lung cancer, respiratory tract infections, chronic obstructive pulmonary disease (COPD) and asthma.
+        <br><br>
+        It is well documented that air pollution contributes to death and lost healthy years of life, even in Norway.
+        ]]>
+    </string>
+
+    <string name="head_who">
+        Who is particularly prone to being affected by air pollution?
+    </string>
+    <string name="info_who">
+        <![CDATA[<br>
+        The health risk depends on how polluted the air is and how long you are exposed to it.
+        People with respiratory diseases and cardiovascular diseases are especially prone to air pollution. Young children who have not yet fully developed respiratory tracts are also at particular risk. Recent research results suggest that older people may develop neurological disorders such as dementia, in addition to cardiovascular disease and respiratory disease after exposure to polluted air over an extended time.
+        <br><br>
+        Air pollution can aggravate diseases of the respiratory tract, such as infections, asthma and COPD, and disorders of the cardiovascular system such as heart attack and stroke. Both short (hours or days) and long (months or years) exposure periods to air pollution can cause damage to your health and well-being.
+        ]]>
+    </string>
+
+    <string name="head_where">
+        Where do we get our data and what are our sources?
+    </string>
+    <string name="info_where">
+        <![CDATA[This app was created with the help of Meterological Institute for Air Quality\'s API.
+It also collects information from NILU\'s(Norwegian Institute for Air Research) air gauges, which are independent of weather stations. The data is compared with maps and municipality data from SSB, and overlain a map provided by Google Maps.
+
+<br><br>
+The information you\'re reading on this page is gathered from:
+<br><br>
+The Institute for Public Health<br>
+The Norwegian Environment Agency<br>
+Store Norske Leksikon - Air pollution <br>
+Statistics Norway]]>
+    </string>
+    <!-- Not translated -->
+    <string name="head_hvor">Hvor får vi dataene våre, og hva er kildene våre?</string>
+    <string name="info_hvor"><![CDATA[<br>Alle dataene våre har vi fått fra Meteorologisk Institutt og NILU, Norsk Institutt for Luftforskning.         <br><br>         Informasjonen du leser på denne siden er hentet fra:         <br><br>         FHI, Folkehelseinstituttet<br>         Miljødirektoratet<br>         Store Norske Leksikon - Luftforurensning]]></string>
+
+
+    <string name="explore">Explore</string>
+    <string name="temp">Temperature</string>
+    <string name="text" translatable="false">Text</string>
+    <string name="aqi" translatable="false">AQI</string>
+    <string name="pm10" translatable="false">PM10</string>
+    <string name="pm25" translatable="false">PM2.5</string>
+    <string name="no2" translatable="false">NO2</string>
+    <string name="o3" translatable="false">O3</string>
+
+
+    <!-- Not fully translated -->
+    <string name="default_karttype">Default Map type</string>
+    <string name="reset_my_places">Reset My Places</string>
+    <string name="reset">Reset</string>
+    <string name="name">Name</string>
+    <string name="areaclass">Area class</string>
+    <string name="gps_error">Could not connect to GPS</string>
+    <string name="show_nearest_time">Show nearest time</string>
+    <string name="annual_mean">Annual mean</string>
+    <string name="hold_to_edit">(Hold to edit)</string>
+    <string name="model">Air Quality</string>
+    <string name="stations">Stations</string>
+    <string name="measures">Measures:</string>
+    <string name="last_updated">Updated:</string>
+    <string name="nox" translatable="false">Nox</string>
+    <string name="no_value" translatable="false">No</string>
+    <string name="measured_values">Values:</string>
+    <string name="border_value">Limit:</string>
+    <string name="shortterm">Short-term mean</string>
+    <string name="annualmean_acceptable">Acceptable</string>
+    <string name="annualmean_exceed">Exceeded</string>
+    <string name="one_year">1 year</string>
+    <string name="one_day">1 day</string>
+    <string name="pm10_max_days_yearly">30 days</string>
+    <string name="max_exceed_year">Max exceed yearly</string>
+    <string name="color_values">Color values</string>
+    <string name="_0_15_g_m3_n15_25_g_m3_n25_35_g_m3_n35_50_g_m3" translatable="false">0-15 µg/m3\n15-25 µg/m3\n25-35 µg/m3\n35-50 µg/m3</string>
+    <string name="no2_max_hours_year">18 hours</string>
+    <string name="one_hour">1 hour</string>
+    <string name="could_not_determine_location">Could not determine location</string>
+    <string name="max_annualmean">Limit</string>
+    <string name="period">Period</string>
+    <string name="max_over">Max allowed</string>
+    <string name="no2_low_pollution">NO2 Moderate risk</string>
+    <string name="pm25_low_pollution">PM2.5 Moderate risk</string>
+    <string name="pm10_low_pollution">PM10 Moderate risk</string>
+    <string name="name_of_place">Name of place</string>
+    <string name="add_place">Add place</string>
+    <string name="add_custom_place">Add custom place</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="added">added</string>
+    <string name="cancel">Cancel</string>
+    <string name="position">Position</string>
+    <string name="nhhiny">19. highest hourly value in year</string>
+    <string name="tohdiny">31. highest daily value in year</string>
+    <string name="places_reset_msg">Reset My Places? This will remove all saved places.</string>
+    <string name="update">Update</string>
+    <string name="remove_place">Delete</string>
+    <string name="edit_or_delete">Edit or delete</string>
+    <string name="slide_time">Slide to change reference time</string>
+    <string name="within_limit">Values are at acceptable levels</string>
+    <string name="exceed_limit">Values exceed acceptable levels</string>
+    <string name="error_occured">An error occurred</string>
+    <string name="h24">24h</string>
+    <string name="h1">1h</string>
+    <string name="polution">Pollution</string>
+    <string name="low_polution">Low</string>
+    <string name="medium_polltion">Moderate</string>
+    <string name="high">High</string>
+    <string name="very_high">Very High</string>
+    <string name="_30" translatable="false"><![CDATA[>30]]></string>
+    <string name="_15" translatable="false"><![CDATA[>15]]></string>
+    <string name="_60" translatable="false"><![CDATA[>60]]></string>
+    <string name="_100" translatable="false"><![CDATA[>100]]></string>
+    <string name="_30_50" translatable="false">30-50</string>
+    <string name="_75" translatable="false"><![CDATA[75<]]></string>
+    <string name="_400" translatable="false"><![CDATA[400<]]></string>
+    <string name="_150" translatable="false"><![CDATA[150<]]></string>
+    <string name="_240" translatable="false"><![CDATA[240<]]></string>
+    <string name="levels">Levels</string>
+    <string name="h_expl">1h: Peak maximum values 24h: Daily mean maximum values</string>
+    <string name="error_get_data">An error occurred. Check internet connection and try again.</string>
+    <string name="no_internet_map">No internet connection. This will limit map functionality.</string>
+    <string name="no_internet">No internet connection detected. This will limit functionality.</string>
+    <string name="luftsonekart">Air Quality Map</string>
+    <string name="no_data">No data available</string>
+    <string name="now">Current Time</string>
+    <string name="no_places">No places to load.</string>
+</resources>

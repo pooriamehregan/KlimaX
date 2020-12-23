@@ -1,0 +1,34 @@
+[
+  {
+    "LatLng": {
+      "latitude": 59.9127278,
+      "longitude": 10.7460917
+    },
+    "name": "Oslo",
+    "area": "kommune"
+  },
+  {
+    "LatLng": {
+      "latitude": 60.3932308,
+      "longitude": 5.3244951
+    },
+    "name": "Bergen",
+    "area": "kommune"
+  },
+  {
+    "LatLng": {
+      "latitude": 69.6545499,
+      "longitude": 18.9636585
+    },
+    "name": "Tromsø",
+    "area": "kommune"
+  },
+  {
+    "LatLng": {
+      "latitude": 58.9689644,
+      "longitude": 5.7294223
+    },
+    "name": "Stavanger",
+    "area": "kommune"
+  }
+]

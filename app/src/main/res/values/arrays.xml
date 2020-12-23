@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spraak">
+        <item>Norsk</item>
+        <item>Engelsk</item>
+    </string-array>
+
+    <string-array name="mapTypes">
+        <item>luftsonekart</item>
+        <item>no2_concentration_annualmean</item>
+        <item>pm10_concentration_annualmean</item>
+        <item>pm25_concentration_annualmean</item>
+        <item>no2_concentration_19_highest_hourly_value_inyear</item>
+        <item>pm10_concentration_31_highest_daily_value_inyear</item>
+    </string-array>
+
+    <string-array name="sourcesTypes">
+        <item>PM2.5</item>
+        <item>PM10</item>
+        <item>N02</item>
+    </string-array>
+
+    <string-array name="areaclasses">
+        <item>@string/basic_statistical_unit</item>
+        <item>@string/sub_area</item>
+        <item>@string/municipality</item>
+    </string-array>
+</resources>
