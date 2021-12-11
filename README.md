@@ -33,10 +33,12 @@ This app has also been nominated for one of the best apps created at University 
 https://drive.google.com/file/d/1cH2EQ0nR3nD1bZ69ZhMGLBgqbehmj5Sk/view?usp=sharing
 
 # Build
-First build may take som time. between 5 - 15 mins depnding on your environment.
+First build may take som time, depnding on your running environment.
 
 # Running the app
 Please use android studio emulator, or a android device (in developer mode) to run this app.
+
+Recommended Android Virtual Device: Pixel 5, API 29 
 
 
 
