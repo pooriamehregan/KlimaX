@@ -9,7 +9,7 @@ https://www.uio.no/studier/emner/matnat/ifi/IN2000/
 Search field and interactive map are no longer active due to
 google's billing requirement. It means you can no longer search
 or select places on the map, but I have included pictures and videos
-to show how the was like when it Google APIs were active.
+to illsutrate the App's behaviour and look, when Google APIs were active.
 
 # Version
 You may notice that the version on this repository is not the same as the version you see in the video.  
@@ -28,7 +28,7 @@ Screen-shots:
 https://drive.google.com/drive/folders/1gR4R2DpHP3MfIK6wFeZTGiJW-EqOrckW?usp=sharing
 
 # Nomination
-This app has also been nominated for one of the best apps created at University of Oslo, winter 2020.
+This app has also been nominated for the best app created at University of Oslo, winter 2020.
 
 https://drive.google.com/file/d/1cH2EQ0nR3nD1bZ69ZhMGLBgqbehmj5Sk/view?usp=sharing
 
@@ -36,9 +36,9 @@ https://drive.google.com/file/d/1cH2EQ0nR3nD1bZ69ZhMGLBgqbehmj5Sk/view?usp=shari
 First build may take som time, depnding on your running environment.
 
 # Running the app
-Please use android studio emulator, or a android device (in developer mode) to run this app.
+Please use Android Studio emulator, or a android device (in developer mode) to run this app.
 
-Recommended Android Virtual Device: Pixel 5, API 29 
+Recommended settings: Pixel 5 (AVD), API 29 
 
 
 
