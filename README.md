@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1gR4R2DpHP3MfIK6wFeZTGiJW-EqOrckW?usp=sha
 # Nomination
 This app has also been nominated for the best app created at University of Oslo, winter 2020.
 
-https://drive.google.com/file/d/1cH2EQ0nR3nD1bZ69ZhMGLBgqbehmj5Sk/view?usp=sharing
+[https://drive.google.com/file/d/1cH2EQ0nR3nD1bZ69ZhMGLBgqbehmj5Sk/view?usp=sharing](https://drive.google.com/drive/folders/1gR4R2DpHP3MfIK6wFeZTGiJW-EqOrckW)
 
 # Build
 First build may take som time, depnding on your running environment.
